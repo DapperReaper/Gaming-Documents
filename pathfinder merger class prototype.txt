@@ -1,0 +1,85 @@
+pathfinder merger class
+
+mergers are symbiotic that better those around them to achieve seemingly mythical power, the exact method of merging varies, some melt into a liquid and engulf their host, others break into brilliant energy, sometimes they do a silly dance, regardless of the method, the results are spectacular
+
+
+
+
+
+
+
+merge 
+at 1st level the merger can merge with another character to grant them bonuses, merging with a target is a fullround action that does not provoke an attack of opportunity. the merger may merge 2 times per day at first level and 1 additional time each level therafter. when merging with a target, the merger adds her attribute modifiers to the targets attribute scores(if the merger has a negative modifier this results in a penalty), they also combine they're current/max hp (an increase in constitution modifier would futher increase this), derived values such as AC, CMB and skill checks are recalculated with the merged stats/attributes, the merge is considered a temperary bonus and does not boost uses per day of abilities based on stats(such as rage) unless a temporary boost would normally increase this. the merger also recieve a number of enhancement points to spend on various bonuses to grant her host, the bonuses are chosen at the time of the merger and may not be changed until a new merger occurs. at first level the merger has 10 ehancement points and she gains an additional 2 each level beyond first. at first level these enhancement points may be spent in the following ways(unless otherwise noted, each may be taken multiple times at the same price)
+
++1 attack bonus : 2 points
++1 AC : 2 points
+fast healing +1 : 6 points
+exisiting DR+1 : 4 points
+CMB +1 : 2 points
+CMD +1 : 3 points
+DC of ability or spell+1 : 3 points
+
+
+the merger gains new ways to spend her enhancement points as she levels. when the merger and her host split apart, she must decide how to divde their current hp between them(unless they are at max hp, then both are at their respective max hp upon spliting) a merge has no fixed time limit, however after being merged for an hour, both the merger and the host must make a fortitude and will save DC equal to 10 plus the combined levels of both, this save is made using their seperated saves and cannot benefit from increased stats provided by the merge. failing the fortitude save causes their bodies to reject each other and forces them to split apart, failing the will save risks their minds blending, the merger must choose to split at this point or both role for a random derangement. if both suceed their saves, they may remain merged for 12 hours before needing to make another save.
+
+extended enhancment
+at 3rd level the mereger may also spend her enhancment points in the following ways(unless otherwise noted, each may be taken multiple times at the same price)
+
+restore 5 current hp : 1 point
+one save+1 : 2 points
+effective caster level+1 : 5 points
+current/max hp+3 : 4 points
+one attribute+1 : 3 points
+
+at 7th level points may also be spent on the following
+
++5ft move : 1 point
++1 to a single skill : 1 point
++1 feat(known by merger) : 10 points
+restore 1 per day use of racial ability to host : 7 points
+restore 1 point of attribute damage : 1 point
+
+at 12th level points may also be spent on the following
+
+DR/- +1 : 6 points
+single bonus from class ability+1 : 20 points
+restore 1 per day use of class feature : 12 points
+restore half of resource pool(rage/grit/ki/etc) : 10 points
+make a single skill considered favored : 1 point
+
+at 18th level points may also be spent on the following
+
+fasting healing for a resource pool+1 : 25 points
++1 feat(any) : 15 points
+restore daily use of spell(or similar such as psionics or alchemy bombs) : 5 points per tier
+effective mythic tier+1 : 30 points
+fully restore resource pool : 15 points
+remove any single status effect(except death): 8 points
++1 effective class level for determining effects of class features : 18 points
+
+please note that some of these are instantaneous, 1 time bonuses( such as restore hp or attribute damage) and occur at the time of the merger, these choices are meant to restore a heavily injured partner instantly)
+
+
+
+synergy
+when a merger merges with a target, they recieve a bonus(or penalty) based on their synergy, this is determined by their alignment. a matching alignment on any axis confers a +2 to their synergy total, being within 1 step confers a +1 bonus, and being opposed alignment reduces synergy by 1(so perfect synergy is +4, worst synergy is -2). a merger applies her synergy to her effective level when merging with a target for the purpose of number of enhancment points 
+
+
+analytical eyes
+at second level the merger's eyes become tuned to their merging ability and can pick up information to help them try and find suitable merge parters more effectively, this provides a +20 insight bonus to perception and sense motive, as well as allows them to percieve things that would normally require magical detection, analytical eyes may not be turned off and constantly feed the merger information about what they see, the merger must make a will save every hour they have their eyes open, DC equal to 10 plus her level, or suffer a severe headache from the influx of information, this headache manefests as 1d4 attribute damage, the effected attribute is chosen at random(roll a d6), this damage recovers as normal for attribute damage, however cannot be repaired by the restoration spell or its varients
+
+
+improved synergy
+while alignment is a decent determining factor for synergy, actually knowing the other person is normally much better, if the 2 characters have significant history(such as being childhood friends) they recieve an additional +1 to synergy, if they have an utter lack of ascociation(such as one being honor bound and the other hiding terrible motives or secrets) they take a -1 penalty to synergy. additionally, if each of their attribute modifiers are within 2 of each other(for example personA: str 18 dex12 con13 int10 wis12 chr14, personB str20 dex10 con15 int8 wis12 chr10) they recieve a +1 bonus to synergy. as a final note, relationships of extreme intamacy over long periods of time, such as lovers or eternal rivals recieve a +4 bonus to synergy
+
+
+
+perfect syncronis
+at 20th level, the merger may attempt a perfect syncronis, a perfect syncronis may only occur while her synergy is 3 or higher. once activated, the merger gains her synergy rating in enhancement points for each level she has, she then immediately spends them as appropriate. this effect lasts for 1 minute, after which she is forcably split with her partner, they are both fatigued and that pair cannot merge again until after 8 hours of rest, even if she has extra merges remaining for the day, she may however merge with others. perfect syncronis may only be used with a given individual once per day, but may otherwise be used once per merge
+
+
+
+new feats
+attribute fueled merging
+select an attribute(strength, dexterity, consitution, intelligence, wisdom or charisma) you gain extra enhancement points when merging equal to the modifier of this attribute, may be taken multiple times, once for each attribute
+

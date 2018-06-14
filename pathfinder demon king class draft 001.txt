@@ -1,0 +1,99 @@
+pathfinder demon king class
+
+demon kings are called such because of the way they absorb fear and negative energy, but infact they need not be demons, their abilities outcast them from most society which is why they often turn out evil, however every so often one is lucky enough to find people accepting of who they are 
+
+hit dice d8
+alignment: any but often evil
+
+
+class skills appraise, bluff, diplomacy, disguise, intimidate, knowedge arcana, knowledge planes, knowledge religion, linguistics, perception, perform, sense motive, sleight of hand, spellcraft, stealth, survival, use magic device
+skill points per level: 2 + int
+
+level	bab	fort	ref	will	special
+1	0	0	0	2	magic points, magic circle, devil's cunning
+2	1	0	0	3	demon magic, advanced magic circle
+3	2	1	1	3	expanded encirclement
+4	3	1	1	4	
+5	3	1	1	4	
+6	4	2	2	5	expanded encirclement
+7	5	2	2	5	
+8	6	2	2	6	
+9	6	3	3	6	expanded encirclement
+10	7	3	3	7	
+11	8	3	3	7	
+12	9	4	4	8	expanded encirclement
+13	9	4	4	8	
+14	10	4	4	9
+15	11	5	5	9	expanded encirclement	
+16	12	5	5	10	
+17	12	5	5	10	
+18	13	6	6	11	expanded encirclement
+19	14	6	6	11	
+20	15	6	6	12	devil's luck
+
+demon kings are proficient with all simple and martial weapons as well as light and medium armor
+
+devil's cunning
+lawful good alignment, while possible, hampens your capacity to use your abilities to their fullest, being non lawful or non good grants an additional +1 skill point per level
+
+
+magic points
+at first level the demon king gains a pool of magic points, these magic points may be spent on various abilities the demon king has. the maximum number of magic points a demon king may have at a time is equal to his level +1 squared(4 at first level, 9 at second level, etc). resting for 8 hours recovers 1d100% of the demon king's total magic points(rounded down, minimum 0) this is due to the unstable nature in which the demon king draws on magic from his surroundings, however a demon king can recover magic points a number of other ways. a sucessfull intimidate check against a target will grant the demon king 1 magic point(a given target may yield only 1 magic point in this fashion per 24 hrs), a demon king can also recover magic points by absorbing the fear of others, the intensity of the fear and distance detrmines the magic points recovered each round
+
+condition	0-30ft	30-60ft	60-90ft	90+ft
+shaken		1	0	0	0
+frightened	2	1	0	0
+panicked	4	2	1	0
+
+
+
+magic circle
+this is the demon kings staple use for magic points, by spending 2 magic points as a free action the demon king may conjure a magic circle to bolster a roll, this can be any roll, however the magic circle must be conjured before the action creating the roll begins(to boost the damage of an attack the magic circle must be conjured before the attack roll is made for example) the magic circle provides a +2 arcane bonus to the roll total, rolls that involve multiple dice(such as those from spell damage) add the bonus to the total, not to each die. actions with multiple rolls(such as melee attacks) may have multiple magic circles, 1 for each roll(a melee attack could potentially have 1 for the attack roll, 1 for critical confirmation 1 for damage and 1 or more for unique weapon effects however they would all have to be conjured before the attack roll is made), if the magic circle is used to enhance a damage roll, it does not change the damage type.
+
+advanced magic circle
+every even level the demon king may apply an additional magic circle to a single roll, increasing the bonus by +1 per additional circle. each magic circle beyond the first still require 2 additional magic points to conjure
+
+demon magic
+at second level onward the demon king can mimic certain magical effects by expeding magic points, however the process to do this is tricky and changes from round to round, so they must first make a knowledge arcana check DC 15 + thrice the spell level of the spell they wish to mimic to figure out how to cast it in the given situation(0 level spells are DC 16 for this check)success means they know how to cast the relevent spell with their demon magic, failure means they fumble and expend the magic points needlessly, once they know how to cast the spell, they must make a spellcraft check(same DC as the knowledge arcane check) and expend the relevant magic points to finish casting it, the number of magic points required are 3 per spell level, failure on this check also means the spell is fumbled and the magic points are wasted. the demon king may not try to mimic spells in this way higher than half his level(round down). for the purpose of determining spell effects the demon king uses his level as his caster level and his charisma as his casting stat. the knowledge arcana and spellcraft skill checks are incorporated into the normal casting time for the spell(mimicking a spell that takes a standard action to cast still takes a standard action). the demon king may mimic spells in this way from the sorcerer spell list. magic circles to enhance either the skill checks or the spell must be applied before the knowledge arcana check is made
+
+expanded encirclement
+at third level and every 3 levels after the demon king can learn new magic circles to spend his magic points on from the following list, unless stated othwise within its description, each of these additional magic circles can only be taken once and have the same activation and cost as the normal magic circle
+
+boosting circle
+cost: varies(see text)
+this magic circle lets the demon king push his body to the limit, temporaily increasing either strength, dexterity or constitution by +2 for 1 round for 2 magic points. every 2 magic points beyond the base spent on this circle increase ether the bonus or duration by 1. boosting circle may be taken multiple times, taking it a second time allows it to boost 2 attributes at once at the cost of 1 additional magic point for base and per increment, taking it a third time allows it to effect all 3 attributes at the cost of 4 points for base and incremental boost, each time the bonus is increased counts as an additional magic circle use for the purpose of limiting the number of times it may be used
+
+deflecting circle
+action: immediate
+cost: varies
+this circle grants a +2 deflection bonus to your AC for 1 turn at the cost of 2 magic points, the bonus is increased by +1 for every 2 additional magic points spent on it
+
+evocative circle
+cost: 2 + 1 per damage die affected
+this magic circle boosts the damage of the spells you mimic with demon magic by +1 per die. applying evocative circle multiple times further increases the damage by an additional +1 per die
+
+lethal circle
+cost: varies(see text)
+action: standard
+this magic circle lets you infuse your weapons with enhancment effects, for 2 magic points you can infuse a weapon with an enhancment effect worth a +1 bonus for 1 round, you may spend additional magic points to extend this duration, each additional magic point extends the duration by 1 round. this circle may be taken multiple times, each additional time increases the level of enhancement effect you can infuse to your weapon, the cost to enfuse the effect is always twice the enhancement bonus value and additional rounds of duration are always 1 per round. only 1 enhancement effect can be applied at a time
+
+improved rejuvination circle
+requires: rejuvination circle
+rejuvination circle can now be activated up to 3 times per round instead of once
+
+malevolent circle
+this magic circle increases the save DC of spells you mimic with demon magic by +2 and an additional +1 each time it is applied after first
+
+provocative circle
+this circle can be used to improve your chance to charm someone, rolls to charm someone gain a +3 bonus with each additional circle providing a +2 bonus, alternatively DCs to resist being charmed by you can be increased by +2 per time this circle is applied
+
+rejuvination circle
+rejuvination circle may be activated only once per turn, each time it is activated you recover 2 hit points
+
+temporal circle
+cost: varies(see text)
+activating this magic circle for 2 points increases your move by 5ft for 1 round. every 2 points spent on this circle beyond the base increases your move by another 5ft and extends the duration by 1 round
+
+
+devil's luck
+demon kings love to cheat fate, sometimes literally, when a roll happens within 10 ft of the demon king she may adjust the natural rolled value, for every 20 magic points spent on this ability the natural rolled value may be increased or decreased by 1, this ability may be activated after the result of the roll is known

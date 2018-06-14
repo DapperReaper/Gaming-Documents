@@ -1,0 +1,53 @@
+pathfinder cosmic dealer class
+
+hit die: d8
+
+
+
+
+
+
+class skills
+appraise, bluff, dimplomacy, knowledge(all), perception, sense motive
+
+
+
+favor
+favor is an ambient energy that represents how much sway a person has on the universe, all living things have favor, even some objects have favor. the following is a guideline to calculate a person or objects favor. a peasent with no class levels usually has a favor of 10, each class level increase favor by 2, each hit die(including those gain from class levels) increase favor by 2, a mythic tier increases favor by 20, if using the optional fame system, each point of fame or infamy increases favor by 1. as for items, each enhancement bonus value of 1 grants 2 favor (so a +5 vorpal sword has a favor of 20) items with special connection to their owner can share extra favor from their owner, however this is mostly subject to GM descretion but as an example a wizards arcane bond typically has 10% of her favor. if an individual ever runs out of favor they die. cosmic dealers can collect and use favor in unique an unintended ways and as such have learned to guage this otherwise invisible energy, a perception check can be made to spot an unusually high amount of favor, the DC to do so is the same as if using detect magic to find a potent magical aura, they may also use appraise to determine how much favor an object or person has, the DC to do so is the same as if to determine the specific magical effect of a magic item. if an individual trades away or otherwise looses less than half her favor, it will recover at a rate of 1 per week until it reaches its original value, loosing more than half will cause it to only recover partially, 1 per week until half of the original value has been restored. cosmic dealers do not recover favor and can only gain it thru completing contracts(see below) or gaining fame/infamy if using the optional fame system. while there is no limit to how much favor a cosmic dealer can have, wary GMs may want to limit a cosmic dealer to 200% of their base value
+
+
+contracts
+cosmic dealers make contracts with people to aquire favor and other treasures, the cosmic dealer evaluates the requested good or service and evaluates the reward they would get, if they think it is a net gain or atleast comparable, they usually take it. when a cosmic dealer takes a contract she gains temporary favor to help her complete it, temporary favor expires when the contract is completed, the amount of temporary favor gained is equal to half the total favor value of the reward for completing the contract, however breaking a contract results in a loss of favor equal to half the temporary favor gain thru taking it, so cosmic dealers do not carelessly take contracts they cannot complete. upon completing a contract, in addition to the reward the cosmic dealer recovers favor spent specifically to advance said contract, if favor is spent to advance multiple contracts, all of said contracts must be completed before that favor gets refunded
+
+favor uses
+a cosmic dealer can use favor in 2 primary ways; commiting favor and spending favor. commiting favor commits the energy to a specific ability and it cannot be commited or spent on other abilities, these abilities are usual passive bonuses or abilities that last as long as the favor is commited. spending favor uses it up and it is gone forever, these effects are usually instantaneous or temporary and usually much more potent than commited abilities
+at first level the cosmic dealer can use favor in the following ways
+
+	live on
+	cost: spend 1 favor
+	effect
+	increase the life span of 1 individual by a year, or 2 years if used on your self, this does nothing to stop the individual from being killed, it merely stalls the flow of time
+
+	enhance body
+	cost: commit 2+ favor
+	effect
+	for every 2 favor commited to this ability you can increase ether your strength, dexterity, or constitution by +1(chosen when commiting the favor)
+
+	focus mind
+	cost: commit 2+ favor
+	effect
+	for every 2 favor commited to this ability you can increase ether your intelligence, wisdom, or charisma by +1(chosen when commiting the favor)	
+
+	unstable boost
+	cost: spend 1 favor
+	effect
+	you can boost a single roll to unprecidented hieghts...or not. by spending a favor you add 1d20 to your next roll
+
+binding clause
+at 3rd level and every 3 levels after the cosmic dealer can learn a binding clause from the following list, including a binding clause in a contract provides additional benefit and restriction
+
+	fine print
+	a fine print clause allows the cosmic dealer to break the contract and loose only 1 favor instead of the usual amount, but only if done so within a day of making the contract
+
+	high risk, high reward
+	a high risk high reward clause increases the amount of favor gained as a reward, but doubles the favor lost if the contract is broken, if used in conjunction with a fine print clause, breaking the contract within the first day results in a loss of the normal amount of favor in place of an increased or decreased amount

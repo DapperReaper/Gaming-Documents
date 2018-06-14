@@ -1,0 +1,11 @@
+pathfinder weapon
+
+
+simple(4)
+one handed(2)
+war cleaver
+1d8 20/x3 S 34gp
+
+increased cost(2) 
+damage boost x4 (-4)
+improved crit damage(-3)

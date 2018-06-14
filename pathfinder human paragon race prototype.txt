@@ -1,0 +1,28 @@
+human paragon patfinder race
+
+
+humanoid(0)
+human paragon(10)
+	the huan paragon starts with much more of their raw ability fleshed out than normal, but they have already realized their limits,they start with strength, dexterity, consttution, intelligence, wisdom and charisma at 18, however these values may not be altered, enhancement bonuses and level advancement uneffect them as do bonuses from class features such as rage, however they may not be decreased ether, and are immune to ability drain/damage, the single exception to this is mythic teirs may raise each to 20, however even mythic power may not raise them beyond 20, even temporarily
+
+bonus feats(10)
+	the human paragon starts play with 3 bonus feats, however atleast 2 must be human racial feats
+
+unusual skill(4)
+	the human pargon gains 2 extra skill points on level up instead of the normal 1 extra for humans, additionally every skill is considered favored, regardless of class
+
+bonus trait(2)
+	the human paragon recieves a bonus human racial trait, this bonus trait does not prevent he human paragon from taking a racial trait as normal, however overlapping bonuses do not stack
+
+total point cost: 26
+
+
+alternatively
+
+
+racial feat
+
+human paragon
+requires: human
+attributes below 18 gain a +1 paragon bonus, this bonus may not raise the attribute past 18. if an effect would raise that attribute above 18, this effect ceases to apply to it. this feat may be taken multiple times, each additional time increases the paragon bonus by +1
+

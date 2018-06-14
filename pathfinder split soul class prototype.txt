@@ -1,0 +1,189 @@
+pathfinder class split soul
+
+
+split souls harbor 2 distinct modes they switch between, the 2 mode have distnct identities, not always, but frequently exact opposites on alligment, however goals and ideals are not always different, the type of alignment for the soul determines the benefits the split soul gains in which modes, picking 2 soul types with perfectly opposite allignments grants access to the soul's synergy bonus, souls automatically swap every 1d8 hours unless they purposely switch before then
+
+select 2 souls at first level, may be any 2 as long as they are different.
+a soul's bonuses, including their synergy bonus, is only active while they are in control
+
+
+
+
+
+
+
+
+
+level	bab	fort	reflex	will	special
+1	0	0	0	2	form weapon, soul switch, soul bonus
+2	1	0	0	3	
+3	2	1	1	3	
+4	3	1	1	4	
+5	3	1	1	4	soul bonus
+6	4	2	2	5	
+7	5	2	2	5	
+8	6/1	2	2	6	
+9	6/1	3	3	6	
+10	7/2	3	3	7	soul bonus
+11	8/3	3	3	7	
+12	9/4	4	4	8	
+13	9/4	4	4	8	
+14	10/5	4	4	9	
+15	11/6/1	5	5	9	soul bonus
+16	12/7/2	5	5	10	
+17	12/7/2	5	5	10	
+18	13/8/3	6	6	11	
+19	14/9/4	6	6	11	
+20	15/10/5	6	6	12	soul bonus, synergism
+
+
+
+
+split souls are proficient with simple, martial and eastern weapons, as well as light medium and heavy armor and shields(but not tower shields)
+
+form weapon
+at first level each soul picks a mundane weapon, while in control the soul may generate an ethereal version of that weapon as a swift action, this ethereal weapon has all the properties of the mundane version of the weapon, once chosen it may not be changed, at 5th level the weapon gains a +1 enhancement bonus, this bonus increases by an additional +1 every 5 levels thereafter
+
+soul switch
+the split soul may swap who is in control as a swift action
+
+soul bonus
+at first level, 5th level and every 5 levels thereafter, the soul that is in control gains a bonus based on the soul's alignment 
+
+
+light soul: lawful good
+synergy bonus: heaven or hell
+attack and damage against evil or chaotic creatures is doubled, however attack and damage taken from evil or chaotic creatures is also doubled
+
+lv 1 bonus
+at first level the light soul gains a +1 sacred bonus to attack, AC, and all saving throws, this bonus increases to +2 at 5th level and increases by an additional +1 every 5 levels thereafter
+
+lv 5 bonus
+at 5th level the light soul may imbue their armor with the power of light as a swift action, this provides it with the champion enhancment bonus to her armor even if she would normally not meet the requirements 
+
+lv 10 bonus
+at 10th level the light soul may extend ethereal light wings as a swift action, while extended she gains a fly move speed of 30 ft, she also gains access to the death from above feat while in control
+
+lv 15 bonus
+at 15th level the light soul may expend her swift action to double her fly move for 1 round per 3 levels she has
+
+lv 20 bonus
+at 20th level the light soul may use a standard action to perform an area of effect attack known as blade of the conquror, she flies up into the air and slams into the ground, holy light beams firing from the point of impact, the initial impact does normal weapon damage and the beams are treated as ranged ray attacks, each one being a touch attack and doing 5d6 holy damage, the number of rays is equal to 3 plus an additional ray for every 10 feet the light soul dove out of the air
+
+
+dark soul: chaotic evil
+synergy bonus: hell or heaven
+attack and damage against good or lawful creatures is doubled, however attack and damage from good or lawful creatures is also doubled
+
+lv 1 bonus
+at first level the dark soul gains a +1 profane bonus to attack, damage, CMD and CMB, this bonus increases to +2 at 5th level and increases by an additional +1 every 5 levels thereafter
+
+level 5 bonus
+at 5th level the dark soul may imbue their weapon with the power of darkness as a swift action, this provides it with the vicious enhancement bonus
+
+10th level bonus
+at 10th level the dark soul may fortify their position and root themselves in place, this provides a +10 bonus to CMD against trip, bull rush and overrun and provides an additional attack of opportunity for every 5 levels they have, she also gains access to the death from below feat while in control
+
+lv 15 bonus
+at 15th level the dark soul may expend a swift action when attacking a target to make an immediate second attack against them at half the attack bonus and damage of the original, the swift action must be expended before the initial attack is made
+
+lv 20 bonus
+at 20th level the dark soul recovers hp equal to damage she deals to targets, this bonus to hp may not exceed the split soul's max hp
+
+light grey soul: neutral good
+synergy bonus: up close and personal
+melee attacks add the split soul's level to attack and damage
+
+lv 1 bonus
+at first level the light grey soul gains a +2 class bonus to her melee attack and damage, this bonus increases by +1 at level 5, and an additional +1 every 5 levels thereafter
+
+lv 5 bonus
+at 5th level the light grey soul deals +5 damage on attacks of oppurtunity, this bonus damage increases by +1 every 5 levels beyond 5th
+
+lv 10 bonus
+at 10th level the light grey soul gains a +2 class bonus to CMD and CMB, this bonus increases by +1 for every 2 levels beyond 10th, she also gains access to the great cleave feat while in control
+
+lv 15 bonus
+at 15th level the light grey soul may expend a swift action to have her next melee attack be against touch ac 
+
+lv 20 bonus
+at 20th level the light grey soul may expend a standard action perform the earth splitter technique, she hefts her weapon above her head and slams it into the ground with all her might, the force sends out a shockwave,targets within 30 feet must make acrobatics check DC 30 or be knocked prone, and make a fortitude save DC 30 or suffer 10d6 sonic damage, successful fort save halves damage
+
+dark grey soul: neutral evil
+synergy bonus: sniper
+ranged attacks add the split soul's level to attack and damage
+
+lv 1 bonus
+at first level the dark grey soul gains a +2 bonus to her ranged attack and damage, this bonus increases by +1 at 5th level and an additional +1 every 5 levels thereafter
+
+lv 5 bonus
+at 5th level the dark grey soul increases the range of her ranged weapons by 30 ft
+
+lv 10 bonus
+at 10th level the dark grey soul may make a called shot on a target and take a penalty to hit the exact spot, -2 for body, -4 for legs, -5 for arms, -10 for head, if the attack is successful the attack deals precision damage damage equal to her level times the penalty she incured, she also gains access to the far shot feat while in control
+
+lv 15 bonus
+at 15th level the dark grey soul may expend a swift action for her next ranged attack to be against her targets flat footed ac
+
+lv 20 bonus
+at 20th level the dark grey soul gains the bullet time ability, by expendeding her swift and move action, she accelerates her perception to the point were the world seems to be standing still, any attacks made this turn gain a +10 circumstance bonus, and her range increment is twice as large as normal
+
+stern soul: lawful neutral
+synergy bonus: unflappable
+the stern soul adds her level/2(min 1) to all saves 
+
+lv 1 bonus
+at first level the stern soul may make a special standard attack action, the stern soul sacrifices a number of hit points, AC or both, for every hit point sacrificed, the damage of the attack is increased by 1, for every AC sacrificed, the attack is increased by 1
+
+lv 5 bonus
+at 5th level the stern soul adds her level to her CMD
+
+lv 10 bonus
+at 10th level the stern soul may as an immediate action sacrifice attack, for each point of attack sacrificed, she increases her AC, touch AC, and flat footed AC by 1, she also gains access to the stalwart feat while in control
+
+lv 15 bonus
+at 15th level the stern soul may as an immediate action sacrifice 1 point in 2 of her saves to increase the third by 2, the actual amount sacrificed can be as much as -6 for a +12 bonus
+
+lv 20 bonus
+at 20th level the stern soul has twice as many hit dice as normal while in control, the stern soul's max hp is tracked seperately from her counterpart, when swapping to the stern soul, increase max and current hp by the appropriate difference
+
+flexible soul: chaotic neutral
+synergy bonus: insane luck
+once per round, the flexible soul may treat a single die she rolled as being as much as 2 higher than what was actually rolled, this may not raise the value above the die size, this effect may be applied after the result of the roll is already known
+
+lv 1 bonus
+at first level, once per round the flexible soul may gain a +1 bonus on a single skill check of her choosing, this bonus must be applied before the roll is made, this bonus increases by +1 at 5th level, and an additional +1 every 5 levels thereafter
+
+lv 5 bonus
+at 5th level, once per round the flexible soul may gain a +1 bonus on a single saving throw of her choosing, this bonus must be applied before the roll is made, this bonus increases by +1 at 10th level, and an additional +1 every 5 levels thereafter
+
+lv 10 bonus
+at 10th level the flexible soul may as an immediate action make an opposed attack roll against an incoming attack, if her d20 rolls equal or higher than the natural value of the attack, she bonds with the incoming attack and the damage is neutralized, if she rolls lower then she takes twice as much damage from the attack as normal
+
+lv 15 bonus
+at 15th level each day the flexible soul makes 2 dice rolls of each die type and records them, over the course of the day, she may use these rolls she previously made to replace actual rolls she made, she may not replace more than 1 die in this way per round
+
+lv 20 bonus
+at 20th level once per day the flexible soul may re-arange their ability scores, this effect is temporary and wears off after a minute or the flexible soul may end the effect early as a free action
+
+void soul: true neutral
+synergy bonus: none
+
+lv 1 bonus
+at first level the void soul gains a +4 class bonus to initiative, this bonus increases by +2 at 5th level, and an additional +1 for every 5 levels thereafter
+
+lv 5 bonus
+at 5th level the void soul gains fast healing 1, this increases to 2 at 15th level
+
+lv 10 bonus
+at 10th level the void soul gains DR1/- this DR increases by +1 every 5 levels after 10th, she also gains access to the death or glory feat while in control
+
+lv 15 bonus
+at 15th level the void soul gains a +1 class bonus to strength, dexterity, constitution, intelligence, wisdom, and charisma while in control
+
+lv 20 bonus
+at 20th level the void soul may once per day treat any d20 roll as a natural 20 instead of rolling
+
+
+synergism
+at 20th level, each round the split soul gains an additional swift, standard and move action, however these extra actions may only be used by the soul not currently in control, in addition, if the 2 souls are eligible for the synergy bonus, swapping control becomes a free action

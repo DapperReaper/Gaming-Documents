@@ -1,0 +1,50 @@
+pathfinder samurai archtype sword of the wind
+
+proficiencies
+the samurai's proficiency with the naginata is replaced by proficiency with the nodachi
+
+
+prep swing
+at first level, whenever the sword of the wind successfully damages a target with an attack she gains a stack of slashing glory(up to a max of 30), when a sword of the wind has 10 or more stacks of slashing glory, she may expend all her stacks of slashing glory to do an extra attack as a free action, this extra attack gains a bonus to attack of +1 per stack expended, and a bonus to damage of +2 per stack expended(if this attack lands and does damage, it also produces a stack of slashing glory), stacks of slashing glory are lost if the sword of the wind changes weapons and the attack must be made within the normal reach of the weapon. stacks of slashing glory decay while resting at a rate of 2 per hour
+
+this ability replaces the samurai's challenge ability and demanding challenge
+
+
+battle charge
+the sword of the wind flies into battle, this increases her move by 10 ft
+
+this ability replaces mount
+
+
+momentum
+at second level and every 5 levels thereafter, increase the number of stacks of slashing glory produced by attacks by 1
+
+this ability replaces resolve
+
+
+zanshin
+at third level and beyond, when the sword of the wind misses an attack, glancing blows, or strikes but does 0 damage, roll a percentile, if you roll under 30% make a free standard attack action against the same target with a +3 bonus to attack, zanshin attacks produce 1 additional stack of slashing glory at level 3 and a further additional stack for every 4 levels beyond 3rd. at level 12 the percentile for zanshin to activate is increased to 40%, at 20th level the percentile to activate is increased to 50%
+
+this ability replaces her samurai order 
+
+
+sekkinoki
+at 4th level the sword of the wind learns to become more efficient, once per 5 minutes, she may activate sekkinoki as a free action, when she does, the next time she expends her stacks of slashing glory to make an extra attack, only 10 stacks are consumed, regardless of how many she has, the sword of the wind must still have atleast 10 stacks of slashing glory to perform the extra attack, the effect of sekkinoki wears off after a minute if it is not used
+
+this ability replaces mounted archer
+
+
+hagukurai
+at 10th level, the sword of the wind has learned to exert extra effort from her slashing glory, once per 10 minutes, she may activate hagukurai as a free action, when she does, her next attack that she makes by expending her stacks of slashing glory is treated as having 10 additional stacks of slashing glory(to max of 30), additionally, she gains stacks of slashing glory as if the attack hit, even if it misses, hagukurai cannot effect attacks effected by sekkinoki, the effect of hagukurai wears off after a minute if it is not used
+
+this ability replaces greater resolve and honorable stand
+
+
+combat meditation
+at 17th level, the sword fo the wind clears her head and focuses her energy on the best way to fell her opponent, by activating combat meditation as a swift action, she gains 5 stacks of slashing glory at the start of her turn each round for 2 rounds
+
+this ability replaces true resolve
+
+
+burning honor
+at 20th level, once per day the sword of the wind may call upon the glory of her ancestors and unleash a flurry of devestating attacks on her enemies, upon activating she immediately gains 30 stacks of slashing glory( to a max of 30) and for the next minute, when she would expend her stacks of slashing glory to make an extra attack, she only expends 10 stacks however the attack is treated as if she expended 30 stacks, however attacks from expending stacks of slashing glory do not produce any slashing glory stacks while this effect is active

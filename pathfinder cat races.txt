@@ -1,0 +1,80 @@
+pathfinder mithra(cat girl)
+
+montrous humanoid(3)
+medium(0)
+normal speed(0)
+standard(+2 dexterity -2 constitution +2 charisma)(0)
+standard languages(0)
+advanced dexterity(4)
+
+cats luck(1)
+seducer(2)
+quick reactions(2)
+object of desire(1)
+
+
+
+total cost: 13
+
+
+anime cat girl
+
+montrous humanoid(3)
+medium(0)
+normal speed(0)
+standard(+2 dexterity -2 constitution +2 charisma)(0)
+standard languages(0)
+
+cats luck(1)
+seducer(2)
+object of desire(1)
+
+
+
+total cost: 7
+
+
+
+pathfinder nyancat
+
+small(0)
+normal speed(0)
+standard(+2 constitution -2 int +2 charisma)(0)
+normal languages(0)
+advanced dexterity(4)
+
+cats luck(1)
+at will ability(color spray)(2)
+flight(4)
+natural attack(slam)(1)
+powerful charge(slam)(2)
+
+total cost: 14
+
+
+pathfinder nyancat v2
+
+small(0)
+normal speed(0)
+standard(+2 constitution -2 int +2 charisma)(0)
+normal languages(0)
+advanced dexterity(4)
+
+cats luck(1)
+at will ability(color spray)(2)
+flight(4)
+
+total cost: 11
+
+pathfinder nyancat v3
+
+small(0)
+normal speed(0)
+standard(+2 dexterity -2 int +2 charisma)(0)
+normal languages(0)
+
+cats luck(1)
+at will ability(color spray)(2)
+flight(4)
+
+total cost: 7

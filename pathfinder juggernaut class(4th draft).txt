@@ -1,0 +1,73 @@
+pathfinder class juggernaught
+
+juggernaughts are power houses and specialize in raw power
+
+hit die: d10
+
+
+
+level		bab		fort	reflex	will		special
+1		1		2	0	0		improved unarmed strike, unstoppable
+2		2		3	0	0		improved overrun, improved bull rush
+3		3		3	1	1		
+4		4		4	1	1		casual break
+5		5		4	1	1		
+6		6/1		5	2	2		improved sunder, break thru
+7		7/2		5	2	2		
+8		8/3		6	2	2		armored juggernaut
+9		9/4		6	3	3		
+10		10/5		7	3	3		toned
+11		11/6/1		7	3	3		power move
+12		12/7/2		8	4	4		
+13		13/8/3		8	4	4		run, freedom of movemnt
+14		14/9/4		9	4	4		
+15		15/10/5		9	5	5		juggernaut strength
+16		16/11/6/1	10	5	5		
+17		17/12/7/2	10	5	5		
+18		18/13/8/3	11	6	6		citadel buster
+19		19/14/9/4	11	6	6		
+20		20/15/10/5	12	6	6		i'm the juggernaut!
+
+
+juggernauts are profficent in simple weapons as well as light, medium and heavy armor
+
+
+at first level the juggernaut gains improved unarmed strike as a bonus feat
+
+unstoppable
+the juggernaut gains DR/- equal to her level but reduces her ac by an equal amount, the juggernaut also becomes immune to fatigue, at 5th level the juggernaut also becomes immune to exhastion, at 10th level the juggernaut also becomes immune to stun, and at 15th level the juggernaut becomes immune to paralyze, the juggernaut also adds her level to her CMD vs trip attempts
+
+at second level the juggernaut gains improved bull rush and improved overrun as bonus feats
+
+casual break 
+when performing a charge, bull rush or overrun combat manuever, the juggernaut automatically attempts to sunder all objects in her path without penalty
+
+
+at 6th level the juggernaut gains improved sunder as a bonus feat
+
+break thru
+the juggernaught ignores the hardness of objects
+
+armored juggernaut
+the juggernaut is no longer impeeded by movement penalties from armor worn, at 16th level, the juggernaut adds AC from worn armor to damage from combat maneuvers or unarmed strike
+
+toned
+half the juggernaut's levels are considered monk levels for the purpose of determining base unarmed damage
+
+power move
+when the juggernaut moves in a straight line and deals some form of damage, that damage is increased by the total number of feet the juggernaut moved during that action
+
+at 13th level the juggenaut gains run as a bonus feat
+
+freedom of movement
+the juggernaut's ability to move is unaffected by being grappled, and is un-impeeded by difficult terrain
+
+juggernaut strength
+the juggernaut adds her level to her CMB and CMD for bullrush and overruns, as well as to her unarmed strike damage, and sunder damage, also the juggernaught's stength score is considered to be twice its actual value for purpose of lifiting and carry capacity
+
+citadel buster
+even the strongest and thickest of walls cannot stop the juggernaut, walls are treated as flat terrain for juggernauts(and for others after the juggernaut passes thru them)
+
+
+i'm the juggernaut!
+once per day the juggernaut may call upon their inner power to unleash true distruction, the juggernaut charges in a straight line, as a full move action, each square the juggernaut passes thru suffers 20d10 damage, characters or obsticales do not impeed this move in any way, this move does not provoke attacks of opportunity, if 2 juggernauts both use "i'm the juggernaut" in opposing dirctions such that they colide, reality starts to break at the square at which they colide, the square becomes a permanent doorway to another plane(chosen at random)
