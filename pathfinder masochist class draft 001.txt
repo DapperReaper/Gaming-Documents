@@ -1,0 +1,59 @@
+pathfinder masochist
+
+level	bab		fort	reflex	will	special
+1	0		2	0	2	pain is power
+2	1		3	0	3	share the agony
+3	2		3	1	3	die hard
+4	3		4	1	4	high injury tolerance
+5	3		4	1	4	
+6	4		5	2	5	
+7	5		5	2	5	pain is power bonus+1
+8	6/1		6	2	6	glorious blood
+9	6/1		6	3	6	
+10	7/2		7	3	7	pain is power efficiency+1
+11	8/3		7	3	7	
+12	9/4		8	4	8	
+13	9/4		8	4	8	hit me more, pain is power bonus+1
+14	10/5		9	4	9	
+15	11/6/1		9	5	9	
+16	12/7/2		10	5	10	
+17	12/7/2		10	5	10	pain empathy
+18	13/8/3		11	6	11	
+19	14/9/4		11	6	11	pain is power bonus+1
+20	15/10/5		12	6	12	rampant carnage, pain is power efficiency+1
+
+
+
+
+
+
+pain is power
+the masochist gets stronger the more he is hurt, they gain a +1 bonus to attack, damage, cmb, intimidate checks and +1ft move speed, for every 5 hp they are missing, this bonus increases by +1 at levels 7, 13, and 19. this ability treats each point of non leathal damage as 5 missing hp. each point of ability damage to int, wis or chr is treated as 3 mising hp, while ability damage to str dex or con is treated as 2 missing hp. at 10th level the masochist gains this bonus for every 4 hp missing instead of 5, at 20th lv for every 3 hp missing
+
+
+
+share the agony
+at second level the masochist can more effectively share the pain they have with their enemies, upon successfully hitting an enemy, they may, as a swift action, inflict the target with one status effect currently effecting them(no save), the effect mimics potency and duration at the time of transfer. this does not remove the effect from the masochist. at 7th level, the masochist may transfer up to 2 effects in this manner at a time, at 19th level they may tranfer up to 3 at a time
+
+
+at 3rd level the masochist gains die hard as a bonus feat and no longer looses conciousness from non lethal damage
+
+
+high injury tolerance
+at 4th level the masochist is so used to being battered and banged up, they become even harder to kill, the point of death in negative hit points is multiplied by 1 plus 1/4 the masochist's level(round down)
+
+
+glorious blood
+at 8th level the masochist gains a unique relationship to bleed damage, instead of the highest amount of bleed damage overiding other bleed effects on them, bleed effects stack on them, however, the masochist doesnt take bleed damage after the initial round it is inflicted, instead they "store it", as a full round action the masochist may tranfer all bleed damage they have accumulated to a different target via a melee touch attack
+
+
+hit me more
+at 13th level the masochist gets really enthusiastic about pain, whenever someone confirms a critical hit against them, they go into a short frenzy, and their bonuses from pain is power are multiplied by the critical damage multiplier of the weapon that crit against them for 1 round, if they are crit multiple times in a round the highest multiplier overides the others
+
+
+pain empathy
+at 17th level the masochist can make his attacker feel his pain, when he takes damage from any source, the source of the damage takes half as much damage(a person weilding a sword would take the damage, not the sword, but a mechanical trap with no one else around would eat half the damage it causes)
+
+
+rampant carnage
+at 20th evel the masochist exemplifies pain on the battle field, when they kill an enemy, they gain temporary hitpoints equal to their CR, these temporary hit points are only consumed by damage first at the choice of the masochist, these temporary hit points stack with themselves without limit, however they wear off after 3 minutes of being outside combat, a masochist is considered outside of combat if he has not attacked or been attacked in the last 5 rounds

@@ -1,0 +1,441 @@
+mass effect races
+
+
+asari
+humanoid(0)
+medium(0)
+flexible(+2 int +2 chr)(1)
+standard move(0)
+
+natural biotic(6)
+at character creation an asari selects 1 tier 1 psionic power and gains it as an at will ability
+
+total point cost: 7
+
+racial feats
+
+biotic potential
+requires: asari
+select a psionic ability you qualify for(using character level as psion level) this ability may be used once per day as a spell like ability, this feat may be taken multiple times, each additional time it is taken you may either select a new psionic power or increase the number of daily uses of an already chosen psionic power by 1
+
+racial traits
+
+latent potential
+your maximum power point pool is increased by +1, if you do not have a power point pool, you now do, with a maximum of 1 point
+
+ardat yakshi
+you are steril and kill anyone you try to repoduce with, but your effective manafestor level is 1 higher than normal
+
+favored class bonuses
+psion			+1/4 power points
+psychic warrior		+1/8 power points
+vitalist		+1/4 powers known
+wilder			+1/4 powers known
+psychic			+1/6 spells known
+
+
+
+batarian
+monstrous humanoid(3)
+medium(0)
+standard(+2 str +2 con -2 wis)(0)
+standard move(0)
+
+4 eyes(1)
+batarians gaina +4 racial bonus on sight based perception check
+
+total cost: 4
+
+
+racial feats
+
+slavery
+requires: batarian
+you have slaves, this functions as the leadership feat, except instead of attracting followers you beat them up and make them follow you, this inverts the usual penalties/bonuses to leadership
+
+racial traits
+
+smell
+in addition to having 4 eyes, you are blessed with a keener nose, you gain a +1 trait bonus to scent based perception checks
+
+favored class bonuses
+barbarian	+1/4 attack while raging
+gunslinger	+1/6 ranged attack
+meserist	+1/3 DC of stare based abilities
+
+
+
+drell
+monstrous humanoid(3)
+medium(0)
+standard(+2 dex -2 con +2 wis)(0)
+fast(1)
+
+perfect memory(2)
+drell can perfectly remember every moment of their life since their birth with perfect clarity
+
+total cost: 6
+
+
+
+elcor
+monstrous humaoid)(3)
+large(7)
+standard(+2 str +2 con -2 chr)(0)
+slow move(-1)
+
+elcor speech(-1)
+elcor communicate more thru slight gestures and phermones than speech tone, as a result when dealing with non elcor, they instinctively and automatically explain what they are about to say, this results in a -10 to bluff and charm against non elcor
+
+total cost: 8
+
+racial feats
+tank warrior
+the elcor may strap a cannon or other large projectile weapon to her back and use it without penalty
+
+racial traits
+acting
+instead of explaing what you say to non elcor, you state an adjective describing how you say it(such as happily, genuine enthusism, cautiously, badassfully, etc) while this does not help with the elcor's penalty to charm/bluff, it does provide a -4 penalty to non elcor making a sense motive check against you
+
+
+favored class bonuses
+gunslinger	+1/6 grit point
+bard		+1/8 bardic performance rounds per day
+barbarian	+1/8 rage rounds per day
+raider		+1/6 war points
+arcanist	+1/10 exploit known
+
+
+
+
+geth
+construct(20)
+standard(+2 int +2 wis -2 chr)(0)
+standard move(0)
+xenophobic(0)
+
+geth networking(10)
+geth network together to make themselves better as a group, 2 geth must be within 10 feet of each other to network, however if one of those geth is within 10 feet of another geth they may add it to the network for a total of 3 networked geth, as long as the geth form a continuous "chain" they can continue to network more geth, each geth in a network provides a cumulative +1 bonus to all other geth on the network for all their actions(so the total network bonus is total number of geth networked -1) geth networking does NOT provide a means of communication
+
+total cost: 30
+
+racial feats
+
+long range antena
+requires: geth
+increase networking range by 5 ft, may be taken multiple times, effect stacks
+
+self repair protocol
+requires: geth
+gain fast healing 1
+
+racial traits
+
+air drop
+may impact the ground from a distance up to your full move range and not suffer damage
+
+favored class bonuses
+sniper		+1/4 critical damage multiplier
+gunslinger	+1/4 max grit points
+
+
+
+hanar
+aberation(3)
+medium size(0)
+standard(+2 str -2 int +2 chr)(0)
+slow(-1)
+swim move(4)
+
+jelly(0)
+the hanar are slightly gelatinous and walk on land on long tenticle like legs, this results in a -1 natural armor rating, but a +1 racial bonus to swim and grapple checks 
+
+total cost: 6
+
+racial feats
+
+tenticle grip
+requires: hanar
+one of the few strong points of the hanar is their impressive grip, this feat takes that grip to the extreme, increasing their racial bonus to grapple and swim by +4 
+
+racial traits
+
+jellyfish anatomy
+hanar are decendants of jellyfish and have few organs to worry about, a hanar with this trait is even more jellyfish like than normal, as a result they are immune to bleed damage
+
+favored class bonuses
+cleric		+1/2 channel per day
+oracle		+1/8 spells known
+skald		+1/8 raging song rounds per day
+
+
+
+krogan
+monsterous humanoid(3)
+standard(strength+2 constitution +2 intelligence -2)(0)
+normal language(0)
+normal move(0)
+fast healingx2(13)
+
+
+total point cost: 16
+
+racial feats
+
+krogan battle master
+requires: krogan, character level 5+
+the krogan is espeically apt in fighting on its own, increase the krogan's fast healing by 1. this feat may be taken once per 5 character levels the krogan has
+
+krogan toughness
+requires: krogan, toughness
+provides an additional 1d4 hit points per hit die, these d4 are NOT hit dice and do not gain any addtional hit points from toughness because of them, krogan toughness may be taken additional times, each additional time provides an additional 1 hit point per hit die
+
+i cant even feel it
+requires: krogan
+some krogan arent smart enough to realize they are hurt, if the krogan has a negative intelligence modifier, it is treated as a bonus to the krogans constitution(a -2 intelligence modifier results in + 2 constitution score, etc) this is an enhancement bonus
+
+relentless charger
+requires: krogan, charging terror racial trait
+allows charging terror to be used 3 + constitution modifer times per day instead of once, may be taken multiple times, each additional time this feat is taken it provides an additional 2 uses per day
+
+racial traits
+
+hatred
+screw everyone, you deal +1 melee damage, but -2 on charm/handle animal checks
+
+charging terror
+once per day you can make an intimidate check against an enemy you are charging, using your attack bonus for the charge instead of your intimidate skill
+
+redundant nervous system
+once per day, you can choose to not be inflicted with paralysis
+
+
+favored class bonuses
+
+barbarian	+1/6 fast healing
+bard		+1/4 intimidate checks
+fighter		+1 melee damage
+monk		+1/8 ki point
+gunslinger	+1/8 critical hit multiplier
+raider		+1/6 fast healing
+skald		+1/10 fast healing
+
+
+
+prothian
+monstrous humanoid(3)
+flexible(+2 str +2 wis)(1)
+standard move(0)
+enhanced dexterity(4)
+enhanced intelligence(4)
+
+true communication(4)
+prothians can take in trmendous detail in an instant, and they have adapted this to full on communication, information that would normally require a day to explain properly can be convied in a second. however this communication has mixed results on non prothians(based on the targets wisdom score), regardless, because of this the DC of all knowledge checks are half as much as normal for prothians. they also recieve a +4 racial bonus to sense motive checks
+
+total cost: 16
+
+racial feats
+
+memory shard
+requires: prothian
+protheans can pass down memories and skills much better than other races due to their rapid communication method, as a result, the prothian selects one of the following benefits
+	gain 2 proficienies(weapons, armor or 1 of each)
+	gain 1 additional skill point per level
+memory shard may be taken multiple times, each additional time provides 2 more proficiencies or 1 additional skill point per level
+
+concept avatar
+requires: prothian, 5+ hit dice
+the prothian becomes an exemplery manifestation for a particular aspect, upon taking this feat, the prothean selects one avatar concept from the list beloow and gains the appropriate bonuses, once chosen it cannot be changed
+		
+		artisan: +8 to all craft checks
+		awareness: +2 wis, +8 to perception checks
+		courage: +10 to save vs fear effects, doubled if trying to overcome active fear effect
+		endurance: +2 hit points per hit die, damage taken from all sources reduced by 1
+		knowledge: +20 to all knowledge checks
+		marksmenship: +2 dexterity, +3 per level to ranged attack bonus
+		speed: +40ft to all movement ranges
+		temperance: when an attack, ability or spell would reduce a target below 0 hit points, may choose how much damage they take instead
+		tenacity: gain fast healing 3 when below 0 hit points
+		valor: double bonus when using defend another, double bonuses when using aid another
+		vengence: all damage caused by the prothian is increased by +5 per level
+		war: +4 to all combat manuevers
+a prothian may only be an avatar of one concept
+
+racial traits
+
+hunter focus
++1 trait bonus to perception and concentration checks
+
+favored class bonuses
+fighter 		+1/4 combat feat
+gunslinger		+1/6 grit
+magus			+1/4 spell DC when using spell combat
+alchemist		+1/8 discoveries known
+psion			+1/6 power points
+psychic warrior		+1/8 power points
+vitalist		+1/6 powers known
+wilder			+1/6 powers known
+psychic			+1/2 spells known
+
+
+quarian
+humanoid(0)
+standard(+2 dex -2 con +2 int)(0)
+standard move(0)
+
+suit(-1)
+quarian wear complicated suits to help them sustain themselves better, without it the quarian would die at a much accelerated rate(x7000 normal aging rate) if the suit becomes damaged, the quarian takes 1 point of bleed damage until it is repaired, other effects that would normally stop bleed damage have no effect on this, a quarian's suit is considered damaged if they take damage greater than 1/4 their maximum hit points from a single attack, repairs requires a craft check DC equal to the damage that ruptured the suit, the quarian can attempt to repair it themselves, and gain a +2 bonus to do so
+
+highly technical(3)
+quarians are extremely technical, as a result they gain a +2 racial bonus to all craft checks and craft is always considered a favored skill for them
+
+
+total cost: 2
+
+racial feats
+
+repair expert
+requires: quarian, 3+ craft ranks
+the quarian people have built their society on repairing and then using things discarded by others, as a result, when making a crafting check to repair something, the DC is half what it would normally be
+
+racial traits
+
+jury rig
+you can build or repair something at half the normal cost to do so, however the resulting creation is twice as likely to brake as normal
+
+favored class bonuses
+gunslinger	+1/2 to craft checks related to firearms
+
+
+
+salarian
+humanoid(0)
+standard(-2 con +2 int +2 wis)(0)
+fast move(1)
+
+hyper metabolism(2)
+salarians process things much quicker than others, as a result, disease, poison, addiction and psychosis only last half the normal duration, but are twice as bad while active
+
+total cost: 3
+
+racial feats
+
+fast learner
+requires: salarian
+able to process information quickly, they can learn much faster, they gain 3 additional skill points per level, this feat may be taken additional times, each additional time provides an additional +1 skill point per level
+
+racial traits
+
+prodegy
+you start play with 1 additional skill point at first level, this bonus skill point may raise a skill to 2
+
+
+favored class bonuses
+alchemist	+1/4 discoveries
+rougue		+2 sneak attack damage
+ninja		+1 to dc of poison from use poison ability
+investigator	+1/6 investigator talent
+master spy	+1/2 bluff checks
+assassin	+1/2 DC for death attack
+
+
+
+
+turian
+humanoid(0)
+medium(0)
+flexible(+2 dex +2 int)(1)
+advanced str(4)
+standard move(0)
+
+total cost: 5
+
+racial feats
+
+tactics
+requires: turian
+when sucessfully flanking, charging, attacking from high ground, fienting, or using a dirty trick, double the numerical bonuses gained
+
+take advantage
+requires: turian, tactics
+turians know how to make the most of a situation, as such, when a turian with this feat gains a circumstance bonus, they gain double the normal value
+
+racial traits
+
+calm and collected
+provides a +1 trait bonus to resist compulsion effects
+
+favored class bonuses
+gunslinger	+1/8 grit gained from a kill or critical hit
+fighter		+1/8 combat feat
+paladin		+1/6 uses of smite ability per day
+sniper		+1/6 perk 
+
+
+
+volus
+monstrous humanoid(3)
+small(0)
+standard(-2 str +2 int +2 wis)(0)
+standard move(0)
+
+suit(-1)
+volus wear complicated suits to help them sustain themselves better, without it the volus would die at a much accelerated rate(x7000 normal aging rate) if the suit becomes damaged, the volus takes 1 point of bleed damage until it is repaired, other effects that would normally stop bleed damage have no effect on this, a volus' suit is considered damaged if they take damage greater than 1/4 their maximum hit points from a single attack, repairs requires a craft check DC equal to the damage that ruptured the suit, the volus can attempt to repair it themselves, and gain a +2 bonus to do so
+
+
+total point cost 2
+
+racial feats
+
+technical
+requires: volus
+volus, despite appearance, are good with their hands at fine articulate work, as a result they gain a +2 bonus to craft checks to repair something, this bonus is doubled if the check is to repair their suit
+
+balls of fury
+requires: volus, rage class feature
+a raging volus with this feat can "roll" thrice her normal move as part of a charge
+
+racial traits
+
+greed
+volus are extremely good with money, as a result, whenever they sell something thru bartering, they recieve additional gold equal to their character level
+
+
+favored class bonuses
+bard	+1/2 to appraise checks
+
+
+
+vorcha
+monstrous humanoid(3)
+medium(0)
+standard(+2 dex +2 con -2 int )(0)
+standard move(0)
+
+fast healing(6)
+
+disease immunity(4)
+vorcha are immune to all non magical diseases
+
+total cost: 13
+
+
+
+yahg
+monstrous humanoid(3)
+flexible(+2 str +2 con)(1)
+enhanced strength(4)
+enhanced constitution(4)
+fast(1)
+
+total cost: 13
+
+racial feats
+
+intense rage
+requires: yahg, rage class feature
+move 2 points of your strength and constitution score to the morale bonuses gained from rage, additionally, gain 6 additional rage rounds per day, if this would cause your strength or constitution to become below 10, this feat grants 12 rage rounds per day instead, this feat may be taken additional times, each time transfers an additional 2 strength and constitution to rage's morale bonus and provides additional rage rounds
+
+
+favored class bonuses
+barbarian	+1/5 morale bonuses provided by rage

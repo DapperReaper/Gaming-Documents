@@ -1,0 +1,86 @@
+pathfinder gremlins
+
+humanoid(0)
+gremlin(+1 to 2 stats of their choosing, may be same stat or different)(1)
+small(0)
+
+
+gremlin trait(the gremlin chooses 1 of the following, once chosen it cannot be changed)(10)
+	mechanic bane
+		everything you touch gains the broken condition, but you can use broken items as if they were not broken
+	insane luck
+		whenever you roll a d6, you may reroll it once, if rerolled the second result must be taken
+	bargaining greed
+		buy prices are 10% cheaper for you
+	poverty's grace
+		when you would be afflicted by a curse effect, you can opt to loose half your gp to negate the effect, must have atleast 2 gp
+	political sway
+		the DC of all diplomacy checks is 2 less for you, additionally if you succeed by less than 5, you treat it as if you succeeded by 5
+	damned
+		you gain an evil aura that scales with your hit dice as if you were an anti paladin(regardless of actual alignment), but demons start with 2 steps improved mood toward you
+	collector
+		wonderous items in your inventory can grant you their benefit even if you do not have them equiped, bonuses of the same type still do not stack, only the highest bonus is taken. also the DC/CMD for disarming/stealing from the gremlin is reduced by 2 for each wonderous item
+
+total point cost: 11
+
+racial feats
+
+elbow grease
+requires: gremlin, mechanic bane racial trait
+when using a broken item, treat it as if it were masterwork, if it is already masterwork, treat it's enhancement bonus as 1 higher
+
+ingenuity
+requires: gremlin, mechanic bane racial trait
+when you use a broken item, gain a +2 bonus to all rolls related to using it
+
+wild fortune
+requires: gremlin, insane luck racial trait
+whenever you roll a d6, if you roll a 6 you gain 50 gp. if you reroll a d6 only the final value counts
+
+consolation prize
+requires: gremlin, insane luck racial trait
+whenever you roll a d6, if you roll a 1, gain 1 temp hp for each hit die you have, these temp hp stack with themselves but are lost after 8 hours. if you reroll a d6 only the final value counts
+
+lucrative
+requires: gremlin, bargaining greed racial trait
+whenever you would find gp or sell an item for gp, increase your total profit by 10%
+
+smart investment
+requires: gremlin, bargaining greed racial trait
+at the start of each month you can invest an amount of gp, at the start of the next month you gain 1.25 times the amount you invested
+
+leniancy
+requires: gremlin, poverty's grace racial trait
+when you would loose gp to avoid a curse effect, you loose half as much as normal(min 1gp)
+
+remorse
+requires: gremlin, poverty's grace racial trait
+you can opt to loose half your current gp to avoid a pain effect
+
+discretion
+requires: gremlin, political sway racial trait
+if you would fail a diplomacy check by 6 or more, treat it as if you failed it by 5
+
+save face
+requires: gremlin, political sway racial trait
+if you would gain a negative mood with someone, the number of steps you loose is cut in half(min 1)
+
+devil's due
+requires: gremlin, damned racial trait
+you gain a +4 bonus to all chr checks involving demons
+
+contract
+requires: gremlin, damned racial trait
+when making deals with demons you may gain an additional benefit at the expense of increasing the potency of your evil aura 1 step, this additional benefit must be less valuable than the main benefit of the deal
+
+insatiable
+requires: gremlin, collector racial trait
+when the GM rolls a % to see what loot you find, their roll is increased by 2%(addatively). if their roll would exceed 100%, they roll 2 more times and make the combined result of both rolls your loot findings. insatiable may be taken multiple times, each additional time after the first the % roll is increased by a further 1%
+
+steampunk gremlin
+requires: gremlin
+when crafting an item, you can replace any 1 component with brass, this adjusts the cost as appropriate and give you a +2 bonus to all rolls involving the item
+
+clockwork gremlin
+requires: gremlin, craft construct
+you may apply the clockwork-automation or clockwork-construct templates at no additional gp cost, this process takes an hour to finish and requires a craft check with a DC equal to the DC needed to construct the original construct. alternatively, you can apply these templates to a living creature, doing so costs 1000gp worth of materials per hit die of the target creature and requires alternating craft and heal checks, each being 5 times the CR of the target creature, one check occurs every hour of the procedure(craftcheck>1hour>healcheck>1hour>craftcheck etc) the time the procedure takes is 1 hour per hit die of the target creature

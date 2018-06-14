@@ -1,0 +1,24 @@
+pathfinder rage melon race?
+plantoid(10)
+standard(0)
+str+2
+int+2
+chr-2
+
+xenophobic(0)
+normal move(0)
+
+adrenal reserves
+	if using a class that has the rage class feature, gain the extra rage feat as a bonus racial feat, additionally, morale bonuses from rage are instead enzyme bonuses, if not in posseson of the rage class feature, replace this power with "endorphine surge"(bellow)
+
+endorphine surge
+	after taking damage recover 1 hit point instantly, unless said damage would result in death, if the rage class feature is preseant, replace this power with "adrenal reserves"
+
+photosynthesis
+	while in direct sunlight gain the fast heailing quality
+
+
+point value for adrenal reserves/endorphin surge? (2 for racial bonus feat[extra rage] plus value of other abilities4) full time fast healing is 6, conditional 4,  
+
+
+total cost 20 points

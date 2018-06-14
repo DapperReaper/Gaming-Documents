@@ -1,0 +1,67 @@
+pathfinder land squid race
+
+
+aberation(3)
+large(7)(str+2 dex-2)
+slow(-1)
+mixed weakness(str+2 dex-2 wis+2 chr-4)(-2)
+xenophobic(0)
+
+
+swim (2)
+light blindness(-2)
+light sensativity(-1)
+no hands(cannot wield normal weapons or use somatic components)(-4)
+grabbing appendages(6)
+multi armed x2 (8)
+
+total point cost:16 points
+
+
+racial traits
+
+strong suckers
++1 trait bonus to grapple checks and checks to grip things such as when trying to hold something covered in grease
+
+hydrodynamic
++5 ft swim speed
+
+amphibious
+can breathe both above and below water
+
+piercing gaze
++1 to save vs sight based illusions
+
+racial feats
+
+tentacle grip
+requires: land squid
+gain a +2 bonus to grapple checks and checks to grip things such as when trying to hold something covered in grease, addionally reduce the penalty for grappling an opponent with 1 arm by 2
+
+tentacle regrowth
+requires: land squid, 3+ hit dice
+gain fast healing 1 if in contact with fluid water(steam and ice dont count)
+
+ink jet
+requires: land squid
+once per day you can fire a jet of ink as a ranged touch attack to blind its target for 1d4 rounds
+
+beak crack
+requires: land squid
+you gain a bite attack that does 2d6 plus strength mod damage, this is a primary natural attack and uses your full base attack bonus, however there is a -6 penalty due to the land squids awkward beak position underneath it, however this penalty is removed when biting grappled enemies
+
+tentacle tag team
+requires: land squid, tentacle grip, bab 6+
+negate the penalty for grappling with 1 arm, additionally if you grapple an enemy with multiple arms, each arm beyond the first is treated as an additional creature trying to grapple the target and provides a +2 bonus for each
+
+multipurpose limbs
+requires: land squid, 5+ hit dice
+you can interchange your "leg" tentacles and your "arm" tentacles, using a "leg" tentacle as an additional "arm" tentacle reduces your move by 10ft, using both "leg" tentacles as extra "arm" tentacles reduces your move to 0, conversely, using an "arm" tentacle as an extra "leg" tentacle increases your move by 2.5 ft(5ft in water)
+
+krakken kombat
+requires: land squid, multipurpose limbs, tentacle tag team, bab 10+
+when you make grapple check, you may have each tentacle target a different enemy, only one CMB roll is made and is compared to each enemy CMD respectively, this does not change the number of grapple checks that may be made against a single target or that may be made per turn, simply that one grapple check may now affect multiple targets
+
+release the kraken!
+requires: land squid, krakken kombat, multipurpose limbs, 10+ hit dice
+you grow 2 extra "arm" tentacles and 2 extra "leg" tentacles, additionally, using "leg" tentacles as "arm" tentacles reduces your speed by 5ft instead of 10ft, reducing your move speed to 0 when using all 4 as "arm" tentacles and using "arm" tentacles as "leg" tentacles only increases your speed by 2ft(5ft in water)

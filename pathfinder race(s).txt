@@ -1,0 +1,805 @@
+potential races for pathfinder
+
+
+
+human+1
+Humanoid(0)
+medium size(0)
+human heritage(0)(+2 to stat chosen and chargen)
+standard linguistics(0)
+fast(1)
+damage reduction(6) DR 10/magic
+fast healingx2(13)
+
+total cost 20
+
+regenerator
+Humanoid(0)
+medium size(0)
+weakness(-1)(+2 to con, +2 wis, -4 to chr)
+standard linguistics(0)
+normal speed(0)
+fast healingx3(21)
+
+total cost 20
+
+medium regenerator
+Humanoid(0)
+medium size(0)
+standard(0) (+2 to con, +2 to wis, -2 to chr)
+standard linguistics(0)
+normal speed(0)
+fast healingx4(29)
+
+total cost 29
+
+super regenerator
+Humanoid(0)
+medium size(0)
+standard(0) (+2 to con, +2 to wis, -2 to chr)
+standard linguistics(0)
+normal speed(0)
+fast healingx5(38)
+
+total cost 38
+
+epic regenerator
+Humanoid(0)
+medium size(0)
+standard(0) (+2 to con, +2 to wis, -2 to chr)
+standard linguistics(0)
+normal speed(0)
+fast healingx6(51)
+damage reduction(6) DR 10/magic
+
+total cost 57
+
+
+Humanoid(0)
+medium size(0)
+human heritage(0)(+2 to stat chosen and chargen)
+standard linguistics(0)
+normal speed(0)
+
+total cost 0
+
+construct(20)
+greater weakness[mental](-3)(-4 to chr, -2 to wis, +2 to int)
+crystiline form(2)
+damage reduction(6)
+light blindness(-2)
+slow(-1)
+
+total cost 22
+
+
+Humanoid(0)
+medium size(0)
+standard(0)(+2 to stength +2 to int, -2 to chr)
+standard linguistics(0)
+advanced strengthx3(15)
+normal speed(0)
+
+total cost 15
+
+super pld
+humanoid(0)
+medium size(0)
+human heritage(0)(+2 to stat chosen and chargen)
+standard linguistics(0)
+normal speed(0)
+advanced charisma(4)
+advanced con(4)
+advanced strength(4)
+natural armor(2)
+improved natural armorx3(6)
+
+total point cost 20
+
+super pld v2
+humanoid(0)
+medium size(0)
+human heritage(0)(+2 to stat chosen and chargen)
+standard linguistics(0)
+normal speed(0)
+advanced charisma(4)
+advanced con(4)
+advanced strength(4)
+fast healing(6)
+natural armor(2)
+
+total point cost 20
+
+super pld v3
+humanoid(0)
+medium size(0)
+human heritage(0)(+2 to stat chosen and chargen)
+standard linguistics(0)
+normal speed(0)
+advanced charisma(4)
+fast healingx2(13)
+natural armor(2)
+improved natural armor(1)
+
+total point cost 20
+
+super drk
+humanoid(0)
+medium size(0)
+human heritage(0)(+2 to stat chosen and chargen)
+standard linguistics(0)
+normal speed(0)
+advanced intx2(9)
+advanced strengthx2(9)
+relentless(1)
+hatred(1)
+
+total point cost 20
+
+super drk v2
+humanoid(0)
+medium size(0)
+standard(0)(+2 str, +2 int, -2 chr)
+standard linguistics(0)
+normal speed(0)
+advanced intx2(9)
+advanced strengthx2(9)
+gate crasher(2)
+
+total point cost 20
+
+super drk v3
+humanoid(0)
+medium size(0)
+human heritage(0)(+2 to stat chosen and chargen)
+standard linguistics(0)
+normal speed(0)
+advanced intx2(9)
+advanced strengthx2(9)
+gate crasher(2)
+
+total point cost 20
+
+super drk v4
+humanoid(0)
+medium size(0)
+standard(0)(+2 str, +2 int, -2 chr)
+standard linguistics(0)
+normal speed(0)
+advanced intx2(9)
+advanced strengthx2(9)
+relentless(1)
+hatred(1)
+
+total point cost 20
+
+Iron Giant
+construct(20)
+flexible(2)(str+2, int+2)
+normal speed(0)
+standar language(0)
+medium size(0)
+cystaline form(2)
+DR10/magic(6)
+fast healingx2(13)
+natural armor(2)
+improved natural armorx3(6)
+
+total cost 51
+
+Iron Golem
+construct(20)
+flexible(2)(str+2, int+2)
+Advanced Stengthx3(15)
+Advanced dexterityx3(15)
+normal speed(0)
+standar language(0)
+medium size(0)
+cystaline form(2)
+DR10/magic(6)
+fast healingx2(13)
+natural armor(2)
+improved natural armorx3(6)
+
+total cost 81
+
+Steel Golem
+construct(20)
+flexible(2)(str+2, int+2)
+Advanced Stengthx3(15)
+Advanced dexterityx3(15)
+normal speed(0)
+standar language(0)
+medium size(0)
+cystaline form(2)
+DR10/magic(6)
+fast healingx3(21)
+natural armor(2)
+improved natural armorx10(55)
+
+total cost 138
+
+Adaman Golem
+construct(20)
+flexible(2)(str+2, int+2)
+Advanced Stengthx3(15)
+Advanced dexterityx3(15)
+normal speed(0)
+standar language(0)
+medium size(0)
+cystaline form(2)
+DR10/magic(6)
+fast healingx3(21)
+natural armor(2)
+improved natural armorx10(55)
+battle hardened(4)
+mist child(1)
+lucky greater(4)
+
+total cost 147
+
+Adaman Abomination
+construct(20)
+flexible(2)(str+2, int+2)
+Advanced Stengthx5(30)
+Advanced dexterityx5(30)
+normal speed(0)
+standar language(0)
+medium size(0)
+cystaline form(2)
+DR10/magic(6)
+fast healingx6(49)
+natural armor(2)
+improved natural armorx11(66)
+battle hardened(4)
+mist child(1)
+lucky greater(4)
+flexible bonus feat(4)
+fastx10(55)
+gate crasher(2)
+natural attack(1)(gore)
+powerful charge(2)
+
+total cost 269
+
+Soviet Abomination
+construct(20)
+flexible(2)(str+2, int+2)
+Advanced Stengthx10(89)
+Advanced Dexterityx10(89)
+Advanced Wisdomx10(89)
+Advanced Charismax10(89)
+Advanced Intellegencex10(89)
+normal speed(0)
+standar language(0)
+medium size(0)
+cystaline form(2)
+DR10/magic(6)
+fast healingx6(49)
+natural armor(2)
+improved natural armorx12(78)
+battle hardened(4)
+mist child(1)
+lucky greater(4)
+flexible bonus feat(4)
+fastx10(55)
+gate crasher(2)
+natural attack(1)(gore)
+powerful charge(2)
+
+total cost 666		total stat adjustment(str+22, dex+20, int+22, wis+20, chr+20)
+
+experiment 01
+construct(20)
+flexible(2)(str+2, int+2)
+normal speed(0)
+standar language(0)
+medium size(0)
+cystaline form(2)
+DR10/magic(6)
+fast healingx2(13)
+natural armor(2)
+improved natural armor(1)
+battle hardened(4)
+mist child(1)
+lucky greater(4)
+flexible bonus feat(4)
+gate crasher(2)
+
+total cost 61
+
+experiment 02
+construct(20)
+flexible(2)(str+2, int+2)
+normal speed(0)
+standar language(0)
+medium size(0)
+cystaline form(2)
+DR10/magic(6)
+fast healingx2(13)
+natural armor(2)
+improved natural armor(1)
+battle hardened(4)
+mist child(1)
+
+total cost 51
+
+experiment 03
+construct(20)
+standard(0)(str+2, int+2, chr-2)
+normal speed(0)
+standar language(0)
+medium size(0)
+cystaline form(2)
+DR10/magic(6)
+fast healingx2(13)
+natural armor(2)
+improved natural armor(1)
+mist child(1)
+
+total cost 45
+
+experiment 04
+construct(20)
+standard(0)(str+2, int+2, chr-2)
+normal speed(0)
+standar language(0)
+medium size(0)
+cystaline form(2)
+DR10/magic(6)
+fast healing(6)
+natural armor(2)
+improved natural armor(1)
+mist child(1)
+
+total cost 39
+
+experiment 05
+construct(20)
+standard(0)(str+2, int+2, chr-2)
+normal speed(0)
+standar language(0)
+medium size(0)
+cystaline form(2)
+DR10/magic(6)
+fast healing(6)
+
+total cost 35
+
+experiment 06
+construct(20)
+greater weakness(-3)(int+2 wis-2, chr -4)
+normal speed(0)
+standar language(0)
+medium size(0)
+cystaline form(2)
+DR10/magic(6)
+fast healing(6)
+
+total cost 32
+
+experiment 07
+construct(20)
+greater weakness(-3)(int+2 wis-2, chr -4)
+slow speed(-1)
+standar language(0)
+medium size(0)
+cystaline form(2)
+DR10/magic(6)
+fast healing(6)
+
+total cost 31
+
+experiment 08
+construct(20)
+greater weakness(-3)(int+2 wis-2, chr -4)
+slow speed(-1)
+standar language(0)
+medium size(0)
+cystaline form(2)
+DR10/magic(6)
+fast healing(6)
+light sensitivity(-1)
+light blindness(-2)
+
+total cost 28
+
+experiment 09
+construct(20)
+greater weakness(-3)(int+2 wis-2, chr -4)
+slow speed(-1)
+standar language(0)
+medium size(0)
+cystaline form(2)
+DR10/magic(6)
+fast healing(6)
+light sensitivity(-1)
+light blindness(-2)
+negative energy affinity(-1)
+
+total cost 27
+
+experiment 10
+construct(20)
+greater weakness(-3)(int+2 wis-2, chr -4)
+slow speed(-1)
+standar language(0)
+medium size(0)
+fast healing(6)
+light sensitivity(-1)
+light blindness(-2)
+
+total cost 20
+
+experiment 11
+construct(20)
+greater weakness(-3)(int+2 wis-2, chr -4)
+slow speed(-1)
+standar language(0)
+medium size(0)
+fast healing(6)
+negative energy affinity(-1)
+light blindness(-2)
+
+total cost 20
+
+Humanoid(0)
+medium size(0)
+standard(0)(+2 to stength +2 to int, -2 to chr)
+standard linguistics(0)
+advanced intelligencex3(15)
+normal speed(0)
+
+
+super wizard
+Humanoid(0)
+medium size(0)
+paragon(1)(+4 to int, str, dex and con -2)
+standard linguistics(0)
+advanced intelligencex3(15)
+normal speed(0)
+
+total cost 16
+
+super wizard v2
+Humanoid(0)
+medium size(0)
+paragon(1)(+4 to int, str, dex and con -2)
+standard linguistics(0)
+advanced intelligencex3(15)
+slow speed(-1)
+
+total cost 15
+
+
+super fire wizard
+Humanoid(0)
+medium size(0)
+paragon(1)(+4 to int, str, dex and con -2)
+standard linguistics(0)
+advanced intelligencex3(15)
+normal speed(0)
+pyromaniac(3)
+
+total cost 19
+
+Humanoid(0)
+medium size(0)
+human heritage(0)(+2 to stat chosen and chargen)
+standard linguistics(0)
+normal speed(0)
+natural armor(2)
+improved natural armorx5(15)
+
+total cost 17
+
+Humanoid(0)
+medium size(0)
+human heritage(0)(+2 to stat chosen and chargen)
+standard linguistics(0)
+DR10/magic(6)
+fast healingx2(13)
+
+total cost 19
+
+
+half construct(7)
+greater weakness[mental](-3)(-4 to chr, -2 to wis, +2 to int)
+crystiline form(2)
+damage reduction(6)
+fast healing(6)
+
+total cost 18
+
+
+humanoid(0)
+greater weakness[mental](-3)(-4 to chr, -2 to wis, +2 to int)
+slow(-1)
+negative energy affinity(-1)
+
+total cost -5
+
+crystiline companion cube race
+construct(20)
+greater weakness[mental](-3)(-4 to chr, -2 to wis, +2 to int)
+weakness(-1)(+2 to strength, +2 to wis, -4 to chr)
+light blindness(-2)
+mixed weakness(-2)(+2 to str, -2 to dex, +2 to wis, -4 to chr)
+fast healing(6)
+normal speed(0)
+standar language(0)
+medium size(0)
+cystaline form(2)
+total cost 20
+
+total stat adjustment: str+4 dex-2 int+4 wis+2 chr-12
+
+
+companion cube race
+construct(20)
+greater weakness[mental](-3)(-4 to chr, -2 to wis, +2 to int)
+weakness(-1)(+2 to strength, +2 to wis, -4 to chr)
+light blindness(-2)
+fast healing(6)
+normal speed(0)
+standar language(0)
+medium size(0)
+total cost 20
+
+total stat adjustment: str+2 int+4 chr-8
+
+
+companion cubes are artificial constructs, made by underground races, commonly used to guard key tunnels
+they are strong and have quick mental proccessing, but only have as much knowledge as they are programed with and suffer when 
+they need to rationalize choice beyond what they were programed to, a noted diviation to this race is the crystiline companion
+cube race, as thier name suggests they are made out of crystal, while this makes them sturdier and expands their memory banks, 
+the crystal structure is clunkier and has an adverse effect on the choice rationalization. both varients, being designed and made
+underground have a sensitivity to light, which often discourages them from being sent above ground
+
+pathfinder rage melon race?
+plantoid(10)
+standard(0)
+str+2
+int+2
+chr-2
+
+xenophobic(0)
+normal move(0)
+
+adrenal reserves
+	if using a class that has the rage class feature, gain the extra rage feat as a bonus racial feat, additionally, morale bonuses from rage are instead enzyme bonuses, if not in posseson of the rage class feature, replace this power with "endorphine surge"(bellow)
+
+endorphine surge
+	after taking damage recover 1 hit point instantly, unless said damage would result in death, if the rage class feature is preseant, replace this power with "adrenal reserves"
+
+photosynthesis
+	while in direct sunlight gain the fast heaiing quality
+
+
+point value for adrenal reserves/endorphin surge? (2 for racial bonus feat[extra rage] plus value of other abilities4) full time fast healing is 6, conditional 4,  
+
+
+total cost 20 points
+
+
+pathfinder adamantoise race
+
+adamantoise are giant turtles, known for their strong shells, they are generally quite diffucult to injure, being turtles they have an extremely long life span(average of 10,000 years)
+
+
+size large(7)(str+2 dex-2)
+standard(0) dex-2 con+2 wis+2
+languages normal(0)
+natural armor(2)
+improved natural armorx2(3)
+racial bonus feat: improved natural armor(2)
+
+turtle up (6)
+as a standard action, an adamantoise may hide inside its shell, while doing so, its actions are limited to taking full defense action, coming out of its shell as a swift action, or if the adamantoise has casting abilities, cast a spell defensively, however while in its shell, the adamantoise gains fast healing and their natural armor value is doubled
+
+total point cost: 20
+
+
+
+pathfinder adamantoise race v2
+
+size large(7)(str+2 dex-2)
+standard(0) dex-2 con+2 wis+2
+languages normal(0)
+natural armor(2)
+improved natural armorx2(3)
+racial bonus feat: minor damage reduction(2)
+
+turtle up (6)
+as a standard action, an adamantoise may hide inside its shell, while doing so, its actions are limited to taking full defense action, coming out of its shell as a swift action, or if the adamantoise has casting abilities, cast a spell defensively, however while in its shell, the adamantoise gains fast healing and their natural armor value is doubled
+
+total point cost: 20
+
+
+pathfinder adamantoise race v3
+
+size large(7)(str+2 dex-2)
+standard(0) dex-2 con+2 wis+2
+languages normal(0)
+natural armor(2)
+improved natural armorx2(3)
+racial bonus feat: minor damage reduction(2)
+
+hardon shell(6)
+the adamantoise may temporaily harden it's shell for better survivability, this results in doubling total AC(after all other bonuses and penalties) and increasing all damage reduction values by 1. harden shell may be used a number of times per day equal to the adamantoise's con modifier(min 1) and lasts for a minute each use
+
+turtle up (6)
+as a standard action, an adamantoise may hide inside its shell, while doing so, its actions are limited to taking full defense action, coming out of its shell as a swift action, hardon shell, or if the adamantoise has casting abilities, cast a spell defensively, however while in its shell, the adamantoise gains fast healing and their natural armor value is doubled
+
+total point cost: 26
+
+pathfinder adamantoise race v4
+
+size large(7)(str+2 dex-2)
+standard(0) dex-2 con+2 wis+2
+languages normal(0)
+natural armor(2)
+improved natural armorx2(3)
+racial bonus feat: minor damage reduction(2)
+racial bonus feat: improved natural armor(2)
+
+hardon shell(6)
+the adamantoise may temporaily harden it's shell for better survivability, this results in doubling total AC(after all other bonuses and penalties) and increasing all damage reduction values by 1. harden shell may be used a number of times per day equal to the adamantoise's con modifier(min 1) and lasts for a minute each use
+
+turtle up (6)
+as a standard action, an adamantoise may hide inside its shell, while doing so, its actions are limited to taking full defense action, coming out of its shell as a swift action, hardon shell, or if the adamantoise has casting abilities, cast a spell defensively, however while in its shell, the adamantoise gains fast healing and their natural armor value is doubled
+
+total point cost: 28
+
+
+pathfinder adamantoise race v5
+
+size large(7)(str+2 dex-2)
+standard(0) dex-2 con+2 wis+2
+languages normal(0)
+natural armor(2)
+improved natural armorx8(36)
+racial bonus feat: minor damage reduction(2)
+racial bonus feat: improved natural armor(2)
+
+hardon shell(6)
+the adamantoise may temporaily harden it's shell for better survivability, this results in doubling total AC(after all other bonuses and penalties) and increasing all damage reduction values by 1. harden shell may be used a number of times per day equal to the adamantoise's con modifier(min 1) and lasts for a minute each use
+
+turtle up (6)
+as a standard action, an adamantoise may hide inside its shell, while doing so, its actions are limited to taking full defense action, coming out of its shell as a swift action, hardon shell, or if the adamantoise has casting abilities, cast a spell defensively, however while in its shell, the adamantoise gains fast healing and their natural armor value is doubled
+
+total point cost: 56
+
+
+pathfinder adamantoise race v7
+
+size large(7)(str+2 dex-2)
+standard(0) dex-2 con+2 wis+2
+languages normal(0)
+natural armor(2)
+improved natural armorx2(3)
+racial bonus feat: minor damage reduction(2)
+racial bonus feat: improved natural armor(2)
+racial bonus feat: minor damage reduction(2)
+racial bonus feat: minor damage reduction(2)
+racial bonus feat: minor damage reduction(2)
+
+
+
+hardon shell(6)
+the adamantoise may temporaily harden it's shell for better survivability, this results in doubling total AC(after all other bonuses and penalties) and increasing all damage reduction values by 1. harden shell may be used a number of times per day equal to the adamantoise's con modifier(min 1) and lasts for a minute each use
+
+turtle up (6)
+as a standard action, an adamantoise may hide inside its shell, while doing so, its actions are limited to taking full defense action, coming out of its shell as a swift action, hardon shell, or if the adamantoise has casting abilities, cast a spell defensively, however while in its shell, the adamantoise gains fast healing and their natural armor value is doubled
+
+total point cost: 34
+
+
+pathfinder adamantoise race v8
+
+size large(7)(str+2 dex-2)
+standard(0) dex-2 con+2 wis+2
+languages normal(0)
+natural armor(2)
+improved natural armorx2(3)
+racial bonus feat: minor damage reduction(2)
+racial bonus feat: improved natural armor(2)
+racial bonus feat: minor damage reduction(2)
+racial bonus feat: minor damage reduction(2)
+racial bonus feat: minor damage reduction(2)
+racial bonus feat: improved natural armor(2)
+racial bonus feat: improved natural armor(2)
+racial bonus feat: improved natural armor(2)
+
+
+hardon shell(6)
+the adamantoise may temporaily harden it's shell for better survivability, this results in doubling total AC(after all other bonuses and penalties) and increasing all damage reduction values by 1. harden shell may be used a number of times per day equal to the adamantoise's con modifier(min 1) and lasts for a minute each use
+
+turtle up (6)
+as a standard action, an adamantoise may hide inside its shell, while doing so, its actions are limited to taking full defense action, coming out of its shell as a swift action, hardon shell, or if the adamantoise has casting abilities, cast a spell defensively, however while in its shell, the adamantoise gains fast healing and their natural armor value is doubled
+
+total point cost: 40
+
+pathfinder adamantoise race v9
+
+size large(7)(str+2 dex-2)
+standard(0) dex-2 con+2 wis+2
+languages normal(0)
+natural armor(2)
+improved natural armorx2(3)
+racial bonus feat: minor damage reduction(2)
+racial bonus feat: improved natural armor(2)
+racial bonus feat: minor damage reduction(2)
+racial bonus feat: minor damage reduction(2)
+
+
+
+total point cost: 20
+
+
+pathfinder adamantoise race v10
+
+size large(7)(str+2 dex-2)
+standard(0) dex-2 con+2 wis+2
+languages normal(0)
+natural armor(2)
+improved natural armorx2(3)
+racial bonus feat: minor damage reduction(2)
+fast healing(6)
+
+
+total point cost: 20
+
+pathfinder adamantoise race v11
+
+size large(7)(str+2 dex-2)
+standard(0) dex-2 con+2 wis+2
+languages normal(0)
+natural armor(2)
+improved natural armorx2(3)
+
+no armas and 4 legs(+2 against trip, may not wield normal weapons or use somatic components)(-2)
+
+turtle up (6)
+as a standard action, an adamantoise may hide inside its shell, while doing so, its actions are limited to taking full defense action and coming out of its shell as a swift action, however while in its shell, the adamantoise gains fast healing and their natural armor value is doubled
+
+total point cost: 16
+
+
+
+pathfinder adamantoise race v12
+
+size large(7)(str+2 dex-2)
+standard(0) dex-2 con+2 wis+2
+languages normal(0)
+natural armor(2)
+improved natural armorx2(3)
+
+no arms and 4 legs(+2 against trip, may not wield normal weapons or use somatic components)(-2)
+
+
+turtle up (4)
+as a standard action, an adamantoise may hide inside its shell, while doing so, its actions are limited to taking full defense action and coming out of its shell as a swift action, however while in its shell, the adamantoise gains fast healing 1
+
+total point cost: 14
+
+feats
+shell power
+required: adamantoise
+when hiding in using turtle up, double the adamantoise's native natural armor
+
+harden shell
+required: adamantoise, shell power
+with this feat the adamantoise doubles her total natural armor value when hiding in her shell
+
+turtle song
+required: adamantoise, caster level 1+
+remove somatic components from spells
+
+tortoise song(joke feat)
+required: adamantoise, turtle song, caster level 3+
+as a standard action the adamantoise may let out a bellow that crushes any active bard spells within 30 feet
+
+turtle weapon proficiency
+required: adamantoise
+provides proficiency in turtle weapons, turtle weapons are exactly like their normal counter part, however are designed to be gripped by the mouth of an adamantoise, due to these odd adjustments turtle weapons are somewhat rare, and generally cost twice as much as normal weapons

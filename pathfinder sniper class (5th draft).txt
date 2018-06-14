@@ -1,0 +1,238 @@
+sniper class
+
+
+Alignment: Any
+
+Hit Die: d8
+
+Starting Wealth: 5d6 x 10 gp (average 175gp) In addition, each character begins play with an outfit worth 10 gp or less, and the sniper begins with her starting firearm.
+Class Skills
+
+The sniper’s class skills are Acrobatics (Dex), Bluff (Cha), Climb (Str), Craft (Int), Handle Animal (Cha), Heal (Wis), Intimidate (Cha), Knowledge (engineering) (Int), Knowledge (local) (Int), Perception (Wis), Profession (Wis), Sleight of Hand (Dex), Survival (Wis), and Swim (Str).
+
+Skill Ranks per Level: 4 + Int modifier.
+
+
+
+
+sniper is an hyrbid class for gunslinger and rouge
+
+level	bab		fort	ref	will		special
+1	0		0	2	0		eagle eyes, critical shot, gunner, nerv
+2	1		0	3	0		perk
+3	2		1	3	1		
+4	3		1	4	1		
+5	3		1	4	1		perk
+6	4		2	5	2		
+7	5		2	5	2		
+8	6/1		2	6	2		perk
+9	6/1		3	6	3		
+10	7/2		3	7	3		master perks
+11	8/3		3	7	3		perk
+12	9/4		4	8	4		
+13	9/4		4	8	4		
+14	10/5		4	9	4		perk
+15	11/6/1		5	9	5		
+16	12/7/2		5	10	5		
+17	12/7/2		5	10	5		perk
+18	13/8/3		6	11	6		
+19	14/9/4		6	11	6		
+20	15/10/5		6	12	6		ultimate range, perk
+
+
+snipers are proficient with all simple and martial weapons, and with all firearms. They are proficient with all light armor.
+
+Eagle Eyes (ex): Full Round Action spent aiming at a target. Grants the next attack roll the effects of a True Strike spell. Level 5 as a Standard action. Level 10 as a Move action. Level 15 as a Swift action. Level 20 At-will
+
+Critical Shot: Replaces the weapons critical with the following table based on class level.(because of this change in the base mechanic, improved critical and other related feats dont work for sniper's guns)
+
+1: 19 x2, 20 x3
+3: 18-19 x2, 20 x3
+6: 17-18 x2, 19-20 x3
+9: 16-17 x2, 18-19 x3, 20 x4
+12: 15-16 x2, 17-18 x3, 19-20 x4 
+15: 14-16 x2, 17-18 x3, 19-20 x4
+18: 13-15 x2, 16-18 x3, 19-20 x4
+20: 12-14 x2, 15-17 x3, 18-20 x4
+
+
+gunner
+at first level the sniper starts with her choice of a culvern, a rifle, or a shot gun.  Her starting weapon is battered, and only she knows how to use it properly. All other creatures treat her gun as if it had the broken condition. If the weapon already has the broken condition, it does not work at all for anyone else trying to use it. This starting weapon can only be sold for scrap (it’s worth 4d10 gp when sold). the sniper also gains Gunsmithing as a bonus feat.
+
+
+nerv
+the sniper gains a pool of nerv points, max equal to her wisdom modifier, the sniper recovers her wisdom modifier in nerv points after 8 hours of rest, she also gains a nerv point when she reduces an enemy to 0 or fewer hit points or makes a critical hit with a ranged attack, nerv counts as grit or penache for the purpose of qualifying for feats. these nerv points may be spent in the following ways at first level
+
+	steely aim
+	by spending a nerv point, gain a +4 reflex bonus on a ranged attack roll
+	
+	balls of steel
+	by spending a nerv point, gain a +4 competence bonus on a bluff or intimidate check
+	
+	death from afar
+	by spending a nerv point, gain a +4 competence bonus on a perception check
+	
+	rapid re-caliber
+	by spending 2 nerv points the sniper can remove the broken condition from a single firearm she is currently wielding as a standard action, as long as that condition was gained by a firearm misfire.
+	
+	last shot
+	by spending 7 nerv points, the sniper automatically has a normal bullet loaded in their gun, even if circumstances would normally prevent this
+
+the sniper may not spend more nerv per round than their wisdom modifier, if the sniper ever has 0 nerv points, they gain the shaken condition, if they already have the shaken condition they gain the paralyzed condition instead, in ether case, this condition lasts until the sniper regains atleast 1 nerv point
+
+
+at second level and every 3 levels thereafter, the sniper chooses a perk off the perk list, perks require nerv points to work(passive bonuses and abilities that dont require an expenditure of nerv to activate require having atleast 1 nerv point). unless explicitly stated in the perk, each perk may only be taken once
+
+perks
+
+marksmen
+increases the critical hit damage multiplier by 50%(round down), increases ranged attack bonus by +2
+
+hollow point
+triple ammunition cost, however ranged attacks have 30% chance of doing 2x normal damage
+
+hip fire
+the sniper spends 3 nerv points to allow a free action reload of her gun during a full attack action, in addition she gains 1 additional attack during this full attack action made at her full attack bonus, activating this ability prevents the sniper from scoring critical hits until the start of her next turn, hip fire must be activated before the first attack roll of the full attack action is made
+
+long range expert
+gain far shot as a bonus feat
+
+penetration shot
+ranged attacks ignore 1 point of damage reduction, may be taken multiple times, effect stacks
+
+night eyes
+the sniper gains darkness vision 120 feet, if they already have darkness vision due to race or other effect, increase the range of that darkenss vision by 120 feet
+
+elemental bullet
+when this perk is taken the sniper selects 1 element, fire, electricity, cold, or acid, by spending a nerv as a swift action, they can add 1d6 damage of the associated element to their next shot, may be taken multiple times, taking the same element increases the damage by an additional 1d6, taking a different element allows the sniper to choose between elements to add
+
+perceptive aim
+the sniper adds her wisdom modifier to the damage of her ranged attacks
+
+take aim
+the sniper may take a penalty to her initiative(max half her initiative value) to gain a circumstance bonus to her next ranged attack of the same amount, her initiative recovers by 1 each subsequent round she does not use take aim to a max of its original value, the shot is fired at the reduced initiative value in terms of combat order
+
+counter sniper
+when being the target of a ranged attack, the sniper may spend a nerv point as an immediate action to make an opposed ranged attack roll, if the sniper's roll is higher than that of the attacker, the sniper shoots the incoming ranged attack out of the air, must choose to use this ability before the result of the ranged attack targeting the sniper is known
+
+lil helper
+the sniper may select a familiar as a lv 1 wizard
+
+rouge talent
+select a rouge talent you qualify for, may be taken multiple times
+
+cloak
+spend a swift action to become invisible for 1 round, this perk may be taken multiple times, each additional time it is taken, the invisibility effect lasts 1 additional round
+
+rymdskor
+increase movement range by 10 ft, +2 to acrobatics checks made to jump
+
+slowing pressence
+adjacent squares are considered difficult terrain for others
+
+slowing rounds
+spend a nerv point, for 1 minute, enemies you hit with a ranged attack have their movement reduced by 5 ft for 1 round, targets shot multiple times have the duration increased by 1 round per additional time hit
+
+trickster
+provides a +4 dodge bonus to AC and increases all damage delt by 1d6
+
+desperate measures
+once per round, when you are struck by an enemy, they must make a reflex save DC 10 + half level + dexterity mod or be set on fire 
+
+frightening visage
+killing an enemy allows you to make a free intimidate check against enemies within 20 ft, this intimidate check adds the damage used to kill the target as a bonus to the check
+
+headache
+successfully confirming a critical hit causes 1/4 of the damage to be delt to enemeies adjacent to the enemy who was crit
+
+controlled breathing
+the sniper may spend a move action to gain a bonus to her ranged attack and damage equal to the difference between her level and her base attack bonus
+
+
+
+
+
+at 10th level the sniper may choose master perks instead of normal perks when selecting perks
+
+master perks
+
+improved elemental bullet
+requires elemental bullet
+adds an additional effect to elemental bullet based on element, fire ignites the enemy, electricity stuns the enemy, cold paralyzes, and acid poisons, the fortitude save DC for each is 10 + half sniper level + wisdom mod, the effects last for as long as the initial elemental damage, with the poison damage being the same as the acid damage from the initial hit(2d6 acid damage = 2d6 poison damage each round)
+
+puncture shot
+a sniper may spend a nerv as a free action upon sucessfully confirming a critical hit, this causes the bullet to pass thru the target and hit the target behind at the same attack bonus as the critical confirmation roll, if this is also a critical hit, the bullet passes thru that target and continues to the next, all targets hit by puncture shot must be in a straight line
+
+improved marksmen
+requires marksmen
+gain a bonus to critical confirmation equal to half your sniper level
+
+improved take aim
+requires take aim
+the bonus gained from take aim is +2 per -1 initiative and recovers 2 per round without using take aim
+
+improved long range expert
+requires far shot feat
+gain improved far shot as a bonus feat
+
+make it count
+when the sniper has exactly 1 shot left loaded, the damage from that shot is doubled, no effect on guns that can only hold one shot
+
+preditor cloak
+requires: cloakx3
+the first attack made while cloaked does 50% more damage and has its critical damage multiplier increased by 1
+
+corpse explosion
+when you kill an enemy, it explodes and deals 1/4 its max hit points to everything within 5 ft
+
+pheonix
+requires: level 15+
+once per day, if you are killed, you instantly revive with your level in hit points
+
+static discharge
+by spending 3 nerv points as a swift action, 50% of damage dealt on your next ranged attack can arc to another enemy within 10 ft as lightning damage
+
+spiked armor
+enemies that hit you take 6d6 piercing damage
+
+parthian tactics
+while at max hit points, increase movement by 15 ft and add 1d6 to all damage dealt
+
+overkill
+when you kill an enemy via a critical hit, the damage in excess of what was needed to kill him is added to your next critical hit
+
+hydra blood
+requires: level 18+
+gain fast healing 8
+
+spray and pray
+the sniper may spend 4 nerv points as a move action to change her next shot into a cone with range equal to range increment of the weapon, shot guns not using slugs may add an additional cone adjacent to their normal cone(effectively widening the range)
+
+time dialation
+requires: stamina pool
+you can force yourself into a hightened mental state, this acts as the spell time stop, however instead of the normal duration it may be maintained by spending 1 stamina point per round, this effect may be ended early as a free action
+
+
+
+ultimate range
+at 20th level the sniper adds 1D6 force damage to her ranged attacks for every 5 feet she is from her target 
+
+
+
+
+favored races
+
+human		+1/8 perk
+elf		+1/6 to confirm critical hits on ranged attacks
+construct	+1/4 critical damage multiplier
+half orc	+1/4 perception checks
+half construct	+1/8 critical damage mulitplier
+half elf	+1ft range increment
+dwarf		+1/2 craft checks to repair firearms
+turian		+1/6 perk 
+
+new feat
+
+extra perk
+requires: perk class feature
+gain 1 additional perk you qualify for

@@ -1,0 +1,67 @@
+non humanoid pathfinder races for jd
+
+
+hammeroids
+hammeroids are swarms of creatures shaped like (shocker) hammers, the actual individual hammeroid is of the tiny size catagory, howeverever it is extremely rare to find one outside a swarm, usually these swarms range in size from small to large
+
+
+stats
+construct
+str+2 int+2 wis-2
+natural head butt attack
+tiny size catagory except when in a swarm
+
+total point cost: 22
+
+meteor muncher
+the meteor muncher, in fact does not consume meteors, but rather appears as one, they float thru space, get caught in a gravity well, collide and slowly consume, a meteor's size and shape can vary greatly as can a meteor muncher, however most typically they are of the medium to large size size catagory ranges
+
+stats
+aberrant
+dex-4 con+4 wis+2 chr-4
+immune to fall damage
+digest surroundings
+	causes 1d4 acid damage per hit die to all adjacent squares, recover hp equal to damage delt, may not exceed normal max hp
+
+total point cost: 12
+
+
+probers
+probers have 12 long slender legs suspending their body above the ground, they lurk in dark places and use unusual technology to defend themselves
+
+stats
+aberrant
+dex+4 con-2 wis+2
+cmd+8 vs trip attempts
+probing
+	perception and sense motive are always favored skills, and probers recieve a +4 racial bonus to these skills
+unusual technology
+	probers may choose 2 exotic weapons to be proficient with at character creation
+
+total point cost: 14
+
+
+uuzom
+uuzom are blobish monstrosities that destroy seemingly everything they come in contact with
+
+stats
+aberrant
+dex-6 con+4 int-2 chr+4
+large size catagory
+slimey shell
+	the uuzom has a pool of temporary hit points, max equal to its max hit points, at the begining of its turn it rolls half its total hit dice(min 1 die) and recovers that many temporary hit points
+sludgey trail
+	when an uuzom passes thru a square, that square is treated as difficult terrain for 3 rounds
+
+total point cost: 11
+
+wisdom cubes
+wisdom cubes, as the name implies, are cube shaped creatures with knowledge and wisdom beyond their years by the standards of most races, however, they tend to use this wisdom for practical jokes more than helping others
+
+stats
+con+2 wis+2 chr-2
+6 sided arguement
+	wisdom cubes may use wisdom inplace of charisma for any bluff, diplomacy, or persuasion check as long as the check is to trick or mislead someone 
+fly speed 30ft
+
+total point cost: 5

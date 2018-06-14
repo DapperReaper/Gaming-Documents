@@ -1,0 +1,94 @@
+pathfinder cthulian race
+v1.0.0.3.22
+added consideration of sanity damage rule set to various effects
+added non-euclidian geometry feat
+
+
+aberation(3)
+standard(str+2 wis-2 chr+2) (0)
+
+eldritch curse(8)
+whenever you deal damage, you inflict a damage over time effect, spells and other ranged attacks do 50% of the original damage again split over 2 turns(each turn they take 25% of the original damage), a given target can only be effect by 1 of this kind of damage over time effect. melee attacks deal 25% of the original damage split over 4 turns(each turn does 6.25% of the original damage), a given target may have multiple damage over times of this type up to a limit of your total hit dice. regardless of the type, when the damage is split per turn it is rounded down but is always atleast 1, damage from eldritch curse cannot trigger another eldritch curse. "original damage" for eldritch curse refers to the actual reduction in hit points the target takes(damage post DR or ER)
+
+knowledge of insanity(7)
+when an eldritch curse runs its last tick on a target, that target gains a stack of old one touch. stacks of old one touch last indefinately while in line of sight of the cthulian, after this range is broken there is a 1 day duration before they start to decay, they decay at a rate of 1 stack per 8 hours, however seeing any cthulian will reset the duration. each stack of old one touch the cthulian picks between increasing the damage the target takes by 10%, reduce their highest net attribute by 1, or reduce their highest net save by 1, if there is ever a tie for which is highest, the penalty is applied randomly between the tied values. any effect that can remove a derangement can remove 1 stack of old one touch. alternatively, if you are using the sanity damage rule set, you can have each stack of old one touch deal 1 point of sanity damage every hour, in this instance any effect that can cure sanity damage can remove 1 stack of old one touch
+
+total cost: 18
+
+racial traits
+
+tentical magic
+gain a +1 bonus to bypass spell resistance
+
+lasting madness
+stacks of old one touch take 2 days before they start to decay instead of the normal 1
+
+
+racial feats
+
+old one toughness
+requires: cthulian, 3+ hit dice
+whenever you deal damage(inculding via damage over time effects) for every 10 damage you deal you gain 1 temporary hit point, temporary hit points gained in this way stack with each other up to a limit equal to your max hit points. these temporary hit points decay at a rate of 1 per round. old one toughness may be taken multiple times, each additional time reduces the damage needed to be dealt to gain 1 temporary hit point by 1(taken 2 times: 9 damage to 1 temp hp, taken 3 times 8 damage to 1 temp hp, etc) if it is taken enough times to reduce it to 1 damage grants 1 temporary hit point, any further times it is taken increase the temporary hp gained per damage by 1 instead
+
+improved old one toughness
+requires: old one toughness, cthulian, 5+ hit dice
+the max number of temporary hit points you can gain from old one toughness is increased to 2 times your max hp. improved old one toughness may be taken multiple times, each additional time it is taken increases the max temporary hit point pool by another iteration of your max hp
+
+original eldritch
+requires: cthulian, ability to cast 1st level spells
+cthulian's know many old one secrets about old magic and how it works, as a result, a cthulian with this feat is considered to have an actual caster level 1 higher than normal, and an effective caster level 2 higher than normal in a chosen school of magic. original eldritch my be taken additional times, each additional time it is taken further increases the cthulian's effective caster level by 1 in a chosen magic school, this chosen magic school may be the same one as before or a different one
+
+horrifying pressence
+requires: cthulian, chr 18+, 5+ hit dice
+the shear pressence of the cthulian instills fear and madness in those around it, every round that an enemy remains within 30 ft of the cthulian they must make a will save DC 10 + 1/2 the cthulian's hit dice + the cthulian's chr mod or be stricken with fear(shaken), characters already stricken with fear and fail the save have their fear move up one step in intensity(courageous>brave>normal>shaken>frightened>panicked), successfully saving 2 rounds in a row reduces the fear intensity by one step, the DC of this will save increases by 1 for every 3 rounds the target remains within proximity, if the target is at the highest intensity of fear and fails the save, they gain a stack of old one touch. an individual with a class feature that provides a bonus to save vs fear effects or the stoic feat starts at the brave step of the listed steps instead of normal, targets with both a class feature that provides a bonus to save vs fear effects and the stoic feat start at the courageous step of the listed steps instead of brave. targets immune to fear still make the save each round but are unaffected untill they fail 3 times, after which they start gaining old one touch stacks on failed saves as if they were panicked. if you are using the sanity rules, targets immune to fear instead take 1 point of sanity damage on a failed save
+
+non-euclidian geometry
+requires: cthulian, caster level 7+, sacred geometry, calculating mind
+metamagic learned thru sacred geometry can be applied to spells as if you knew the feat normally
+
+Squidular Mathematics
+requires: cthulian, caster level 10+, sacred geometry, calculating mind, non-euclidian geometry
+your ability to process mathematical calculations is unparalled, once per round you may apply one of the following effects to a spell you cast
+	-reduce casting time by 1 step, cannot reduce casting time below a swift action
+	-apply a single metamagic feat you know without increasing the casting time or effective spell level
+	-cause the target to roll the save twice and take the worse result
+
+favored class bonuses
+
+sorcerer	+1/3 spell DC
+wizard		+1/3 to over come spell resistance
+arcanist	+1/4 effective caster level
+monk		+1/3 ki points
+magus		+1/4 to confirm crits when using spell combat, stacks with other similar effects
+eldritch knight	+1/2 to confirm crits, stacks with other similar effects
+paladin		+1/2 hp healed/damage dealt when using lay on hands
+anti paladin	+1/2 effective level for smite damage
+oracle		+1 spell DC for spells gained from mystery
+fighter		+1/3 bonus to weapon training
+witch		+1/4 known hexes
+summoner	+1 evolution points
+
+
+new sorceror bloodlines
+
+old blooded
+skill: knowledge arcana
+
+bonus spells: magic missle(3rd) flaming arc(5th) black tenticle(7th) water clear focus(9th) runic overlord(11th) hidden knowledge(13th) teleport, greater(15th) gate(17th) spotinaity(19th)
+
+bonus feats:spell focus, elemental focus, burning amplification, shocking amplification, greater spell focus, spell specialization, original eldritch, hieghten spell, intensify spell, empower spell, focused spell, quicken spell, shape spell
+
+bloodline arcana:
+casting magic expends excess energy which you have learned to collect and save for later, every time you successfully cast a spell you gain a stack of ancient magic, up to a max of your caster level, you can expend all of your stacks of ancient magic to incease the DC of a spell by 1d6 per stack 
+
+bloodline powers
+
+	tentical magic(1st) you may expend a stack of ancient magic as a swift action to gain a +2 bonus to overcome spell resistance on your next spell, you may expend additional stacks on subsequent rounds to further increase the bonus by an additional +2 per stack, the effect only wears off after a spell is cast or your spells for the day reset
+
+	overpower(3rd) you may boost the damage of your spells, by expending stacks of ancient magic you may gain a +1 damage per die for every 2 stacks of ancient magic per spell level expended(tier 3 spell would take 6 stacks for a +1, etc)
+
+	regrowth(9th) you may expend ancient magic stacks to regain spell slots as a full round action, you must expend 2 stacks per level of slot you want to recover
+
+	quicken(15th) you may expend 4 stacks of ancient magic to reduce the casting time for a spell by 1 step(multi round>1 round less, full round>standard>move>swift) you may reduce the same spell further by expending 4 additional stacks per each additional step
+
+	resevoir of knowledge(20th) your maximum for ancient magic stacks is now twice your caster level plus an additional 3 per mythic tier in place of the usual cap of caster level
