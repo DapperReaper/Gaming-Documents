@@ -1,0 +1,11 @@
+scion titan epic level rule set
+
+every legend past 12 the titan gains 3 mundane dots and 1 epic dot to distribute however they want, as well as 2 -0 health levels
+
+at legend 40 the titan may aquire legendary attributes
+
+at legend 50 and every 5 legend after the titan aquires 1 dot worth of legendary attribute they can distribute however they want
+
+past legend 12, the titan's max legend pool is squared and gains a second legend pool with a max equal to his normal pool raised to the power of his legend rating
+
+past 12, the titan's dice pools increases by their legend rating

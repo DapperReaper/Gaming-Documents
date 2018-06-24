@@ -1,0 +1,43 @@
+scion epic level rule set
+
+start at legend 12, go thru the 3 levels of standard chargen with 300exp
+each free boon dot will grant an additional boon rather than boon dot
+boons that scale as epic attributes, such as arete and gease, scale as epics do(however arete does require 
+additional purchases)
+
+purchasing legend past 12 costs double exp or bonus points
+
+willpower may be raised up to current legend instead of max of 10, however the exp cost to raise it past 11 
+changes, the exp cost to raise past 11 is multiplied by 2^x where x is current willpower-10
+
+to purchase epics past 10, must purchase the ultimate at the cost of the 11th dot, then purchase the 11th dot, 
+purchases beyond 11 have normal exp cost and require mundane to be equal or higher
+
+epics past 10 scale as normal, providing increased bonus equal to one more than the increase of the previous
+epic(epic 2 is 2 auto sucesses, epic 3 is 4, 2 more(2+2), epic 4 for is 7, 3 more(4+3), epic 5 is 11, 4 more(7+4) etc)
+
+every 10 legend past 12 the scion gets a free epic attribute dot to assign where they want
+
+abilities cap at legend instead of 5
+
+every 20 legend past 12, the scion gains 5 dots worth of birthrights, these dots may be added to existing 
+birthrights or take the form of new birthrights, if adding to existing birthrights, any single birthright may not go 
+above 5, however all birthrights combined has no cap
+
+at legend 100 the scion may purchase legendary attributes, legendary attributes are much like their epic 
+counterparts, however legendary attribute bonuses scale as 2n^n where n is the current level of legendary 
+attribute, so 1 dot of a legendary attribute, the benefit would be 2*(1^1)= 2, 2 legendary dots would result in
+2*(2^2)=8, 3 legendary dots would be 2*(3^3)=18, 4 legendary dots would be 2*(4^4)=32, etc
+legendary attribute dots cost 15 exp for a new dot or current rating x20 for raising an existing dot
+legendary attribute bonuses stack with epic attibute bonuses
+
+at legend 13 the scion gets a second legend pool, the max value of which is equal to legend rating^3, however
+this secondary legend pool is 10 times as likely to fate bind when spending legend from it
+
+every legend past 15 the scion gains 1 free mundane attribute dot to distribute where they want
+
+every legend past 12 the scion gains 1 additional -0 health 
+
+every 5 legend past 12 the scion gains 1 dot of appearance and 1 dot of epic appearance, the scion chooses whether 
+these dots are beautiful or gruesome
+
