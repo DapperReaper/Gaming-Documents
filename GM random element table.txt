@@ -1,0 +1,109 @@
+elemental random table
+
+
+01	fire
+02	earth
+03	water
+04	air
+
+05	light
+06	darkness
+
+07	wood
+08	ice
+
+09	lightning
+10	metal
+
+11	blood
+12	spirit
+
+13	lava
+14	pain
+15	sound
+16	animal
+17	rubber
+18	nuclear
+19	life
+20	death
+
+21	magic
+22	fate
+23	clothing
+24	bubble
+25	technology
+26	kinetic
+27	magnetic
+28	gravity
+29	mime
+30	explosion
+31	demonic
+32	angelic
+33	poison
+34	acid
+35	allergy
+36	evolution
+37	eldritch
+38	arcane
+39	divine
+40	sacred
+41	spike
+42	blade
+43	blunt
+44	shield
+45	cold iron
+46	silver
+47	diamond
+48	adamantine
+49	rage
+50	gluttony
+51	lust
+52	sloth
+53	pride
+54	greed
+55	envy
+56	alchemic
+57	stealth
+58	honor
+59	chaos
+60	order
+61	intelligence
+62	strength
+63	foolishness
+64	wisdom
+65	dexterity
+66	agility
+67	stamina
+68	space
+69	stars
+70	knowledge
+71	skill
+72	experience
+73	essence
+74	mythic
+75	legend
+76	cosmic
+77	dark matter
+78	dark energy
+79	galactic
+80	hatred
+81	embarassment
+82	confusion
+83	universal
+84	deception
+85	clarity
+86	rancor
+87	despair
+88	hope
+89	dimension
+90	harm
+91	destruction
+92 	reroll 2 times, hybrid of the rerolled elements
+93	reroll 3 times, hybrid of the rerolled elements
+94 	reroll 4 times, hybrid of the rerolled elements
+95	reroll 5 times, hybrid of the rerolled elements
+96 	reroll 6 times, hybrid of the rerolled elements
+97	reroll 7 times, hybrid of the rerolled elements
+98 	reroll 8 times, hybrid of the rerolled elements
+99	reroll 9 times, hybrid of the rerolled elements
+00/100	void

@@ -1,0 +1,105 @@
+
+GM random encounter table
+
+roll		enemies
+1		Kerfluffalo
+2		mad scientist enemy
+3		Adaption enemy(gets stronger longer fight goes)
+4		volcano enemy
+5		king kerfluffalo (higher level than party)
+6		reroll, swarm version of rerolled enemy
+7		bonus exp, reroll
+8		misguided enemy(normally tricked to fight or blackmailed)
+9		a god, pick one
+10		roll 2 more enemies
+11		twin enemies(enemies that power runs off each other)
+12		interdimentional enemy
+13		trickster enemy
+14		"compensating for something" enemy
+15		living clothing enemy
+16		rainbow enemy
+17		dragon enemy
+18		penguin enemy
+19		viking enemy
+20		gentlemenly enemy
+21		5 grunts
+22		metal gear enemy
+23		time traveling enemy
+24		1 grunt per person
+25		1 equal power enemy
+26		nazis
+27		musical enemy
+28		reroll, laser version of rerolled enemy
+29		1 equal power enemy per person
+30		reroll, hyper accurate version of rerolled enemy
+31		reroll, cat girl version of rerolled enemy
+32		ninja enemy
+33		samurai enemy
+34		fighter enemy
+35		mage enemy
+36		ranged enemy
+37		galactus(or galactoast if appropriate)
+38		reroll 5 times, the resulting 5 enemies combined into a voltron
+39		tree enemy
+40		1 cross system enemy
+41		food enemy
+42		non-cannon enemy
+43		plot twist enemy
+44		sexy enemy
+45		reroll, rerolled enemy in a vehical
+46		sea eneminies
+47		chatty enemy
+48		mind control enemy
+49		void enemy
+50		self replicating enemy
+51		famous character from appropriate setting
+52		philosiraptor enemy
+53		puzzle enemy
+54		internet meme enemy
+55		racist enemy
+56		pirate enemy
+57		mushroom enemy
+58		walrus
+59		reroll, double HP of rerolled enemy
+60		sniffilis
+61		10 fodder enemies
+62		bonus drops, reroll
+63		office enemy
+64		rave enemy
+65		1 unfair enemy
+66		long enemy
+67		1 really unfair enemy
+68		reroll, elemental version of rerolled enemy(pick an element)
+69		penis monster(NOT kerfluffalo)
+70		roll 3 more enemies
+71		elemental(ist)
+72		20 orks
+73		reroll, undead version of rerolled enemy
+74		giant robot enemy
+75		reroll, raging version of rerolled enemy
+76		reroll, magic version of rerolled enemy
+77		reroll, emo version of rerolled enemy
+78		reroll, self-destructing version of rerolled enemy
+79		mime character
+80		mime party
+81		reroll, super fast version of rerolled enemy
+82		reroll, cyborg version of rerolled enemy
+83		reroll, robot version of rerolled enemy
+84		reroll, giant version of rerolled enemy
+85		tanky enemy
+86		agile enemy
+87		power house enemy
+88		social enemy
+89		zombies
+90		sexual enemy
+91		engineer enemy
+92		living weapon enemy
+93		pedobear
+94		TPK
+95		comic relief enemy
+96		high health enemy
+97		reroll, steam punk version of rerolled enemy
+98		"what bullshit is this?!" enemy
+99		grand daddy kerfluffalo(higher than max level)
+100		the moon
+		
