@@ -74,7 +74,7 @@ new sorceror bloodlines
 old blooded
 skill: knowledge arcana
 
-bonus spells: magic missle(3rd) flaming arc(5th) black tenticle(7th) water clear focus(9th) runic overlord(11th) hidden knowledge(13th) teleport, greater(15th) gate(17th) spotinaity(19th)
+bonus spells: magic missle(3rd) flaming arc(5th) black tenticle(7th) water clear focus(9th) runic overlord(11th) hidden knowledge(13th) teleport, greater(15th) gate(17th) spontinaity(19th)
 
 bonus feats:spell focus, elemental focus, burning amplification, shocking amplification, greater spell focus, spell specialization, original eldritch, hieghten spell, intensify spell, empower spell, focused spell, quicken spell, shape spell
 
