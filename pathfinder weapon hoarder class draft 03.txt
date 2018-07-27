@@ -15,24 +15,24 @@ alignment: any
 
 level	bab		fort	ref	will	special
 1	0		0	2	2	magical armory
-2	1		0	3	3	reliquary adornment
+2	1		0	3	3	reliquary adornment, armor summon
 3	2		1	3	3	
-4	3		1	4	4	armor summon, reliquary adornment
+4	3		1	4	4	reliquary adornment
 5	3		1	4	4	saturated attunement
 6	4		2	5	5	reliquary adornment
-7	5		2	5	5	
+7	5		2	5	5	saturated attunement +1
 8	6/1		2	6	6	reliquary adornment
 9	6/1		3	6	6	
-10	7/2		3	7	7	saturated attunement weapon bonus +1, reliquary adornment
+10	7/2		3	7	7	reliquary adornment, saturated attunement +2
 11	8/3		3	7	7	
-12	9/4		4	8	8	saturated attunement armor bonus +1, reliquary adornment
-13	9/4		4	8	8	saturated attunement weapon bonus +2
+12	9/4		4	8	8	reliquary adornment
+13	9/4		4	8	8	saturated attunement +3
 14	10/5		4	9	9	reliquary adornment
-15	11/6/1		5	9	9	saturated attunement armor bonus +2
-16	12/7/2		5	10	10	saturated attunement weapon bonus +3, reliquary adornment
+15	11/6/1		5	9	9	
+16	12/7/2		5	10	10	reliquary adornment, saturated attunement +4
 17	12/7/2		5	10	10	
-18	13/8/3		6	11	11	saturated attunement armor bonus +3, reliquary adornment
-19	14/9/4		6	11	11	saturated attunement weapon bonus +4
+18	13/8/3		6	11	11	reliquary adornment
+19	14/9/4		6	11	11	saturated attunement +5
 20	15/10/5		6	12	12	Martial Convergence, reliquary adornment
 
 favored class skills: appraise, bluff, intimidate, knowledge: dungeoneering, knowledge: history, knowledge: nobility, use magic device
@@ -168,14 +168,14 @@ you value your weapons and expend extra energy to keep them from breaking, weapo
 
 
 wondrous upgrade
-requires saturated attunement weapon bonus 2 or higher
+requires saturated attunement bonus 2 or higher
 your experience with seeing and wielding many different weapons has allowed you to think up new ways to use them, when you summon a weapon, you may sacrifice part or all of the saturated attunement bonus to grant it a magical effect equal to the amount of enhancement bonus sacrificed, the enhancement must be appropriate for the weapon(keen still wont work on bludgeoning etc) and the weapon must still have at least +1 net enhancement bonus, also the weapon cannot already have the enhancement, otherwise any enhancement you know of and have enough bonus for is fine,(at GM's discretion may require the weapon hoarder to have seen the enhancement before or make knowledge check DC 5 times the enhancement bonus amount)the new enhancement lasts until the weapon returns to your armory
 
 armor summon
-at 4th level you may store armor in your magical armory, up to your chaisma modifier in armors may be stored in your magical armory at once. you may summon and fully dawn any armor in your armory as a standard action, at 14th level armor may be summoned and dawned as an immediate action. dawning armor from your armoury while already wearing armor automatically stores the previously worn armor
+at 2nd level you may store armor in your magical armory, up to your chaisma modifier in armors may be stored in your magical armory at once. you may summon and fully dawn any armor in your armory as a standard action, at 12th level armor may be summoned and dawned as an immediate action. dawning armor from your armoury while already wearing armor automatically stores the previously worn armor
 
 saturated attunement
-at 5th level, weapons in your magical armory become saturated with your energy and work better for you than anyone else, you treat weapons attuned to your magical armory as masterwork even if they are not. at 10th level, you treat weapons attuned to your magical armory as if their enhancement bonus was +1 higher than it is(to a max of +10), every 3 levels beyond 10th, the effective enhancement bonus of your attuned weapons increases by a further +1(+4 at 19th level). new weapons must be within your vault for 24 hrs before they become effected by saturated attunement. at 8th level saturated attunement effects the armors in your magical armory, causing them to become masterwork level, at 12th level and every 3 levels thereafter their effective enhancement bonus is increased by +1 (+3 at 18th level), armors must be in your magical armory for at least 24 hours before they become effected by saturated attunement
+at 5th level, weapons in your magical armory become saturated with your energy and work better for you than anyone else, you treat weapons and armor attuned to your magical armory as masterwork even if they are not. at 7th level, you treat weapons attuned to your magical armory as if their enhancement bonus was +1 higher than it is(to a max of +10), every 3 levels beyond 7th, the effective enhancement bonus of your attuned weapons and armor increases by a further +1(+5 at 19th level). new weapons and armor must be within your vault for 24 hrs before they become effected by saturated attunement. 
 
 Martial Convergence
 at 20th level, once per day you may call every weapon in your magical armoury and have them attack a single target without the normal penalties
@@ -214,4 +214,4 @@ you gain 1 extra reliquary adornment you qualify for, may be taken multiple time
 
 Legendary collector(mythic)
 requires: magical armory class feature
-your weapon collection is the stuff of legends, expansive beyond any ordinary collection, the total number of weapons your armory can hold has it's maximum multiplied by 10
+your weapon collection is the stuff of legends, expansive beyond any ordinary collection, the total number of items your armory can hold has it's maximum multiplied by 10
