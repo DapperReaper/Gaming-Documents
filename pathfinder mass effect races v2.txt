@@ -245,7 +245,7 @@ memory shard may be taken multiple times, each additional time provides 2 more p
 
 concept avatar
 requires: prothian, 5+ hit dice
-the prothian becomes an exemplery manifestation for a particular aspect, upon taking this feat, the prothean selects one avatar concept from the list beloow and gains the appropriate bonuses, once chosen it cannot be changed
+the prothian becomes an exemplery manifestation for a particular aspect, upon taking this feat, the prothean selects one avatar concept from the list below and gains the appropriate bonuses, once chosen it cannot be changed
 		
 		artisan: +8 to all craft checks
 		awareness: +2 wis, +8 to perception checks
