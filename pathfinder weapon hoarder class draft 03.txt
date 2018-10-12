@@ -16,29 +16,29 @@ alignment: any
 level	bab		fort	ref	will	special
 1	0		0	2	2	magical armory
 2	1		0	3	3	reliquary adornment, armor summon
-3	2		1	3	3	
+3	2		1	3	3	saturated attunement
 4	3		1	4	4	reliquary adornment
-5	3		1	4	4	saturated attunement
+5	3		1	4	4	saturated attunement +1
 6	4		2	5	5	reliquary adornment
-7	5		2	5	5	saturated attunement +1
+7	5		2	5	5	saturated attunement +2
 8	6/1		2	6	6	reliquary adornment
-9	6/1		3	6	6	
-10	7/2		3	7	7	reliquary adornment, saturated attunement +2
+9	6/1		3	6	6	armory expansion
+10	7/2		3	7	7	reliquary adornment, saturated attunement +3
 11	8/3		3	7	7	
 12	9/4		4	8	8	reliquary adornment
-13	9/4		4	8	8	saturated attunement +3
+13	9/4		4	8	8	saturated attunement +4
 14	10/5		4	9	9	reliquary adornment
 15	11/6/1		5	9	9	
-16	12/7/2		5	10	10	reliquary adornment, saturated attunement +4
+16	12/7/2		5	10	10	reliquary adornment, saturated attunement +5
 17	12/7/2		5	10	10	
 18	13/8/3		6	11	11	reliquary adornment
-19	14/9/4		6	11	11	saturated attunement +5
+19	14/9/4		6	11	11	saturated attunement +6
 20	15/10/5		6	12	12	Martial Convergence, reliquary adornment
 
 favored class skills: appraise, bluff, intimidate, knowledge: dungeoneering, knowledge: history, knowledge: nobility, use magic device
 skill points per level: 4 + int
 
-proficient in all simple and martial weapons, as well as one Exotic weapon of your choice, as well as light, medium and heavy armor
+proficient in all simple and martial weapons, as well as one Exotic weapon of your choice, as well as light, medium and heavy armor and shields(but not tower shields)
 
 magical armory
 At first level, a Weapon Hoarder gains an extradimentional armory to store their weapons. The maximum number of weapons it can hold is equal to their Charisma modifier plus twice their class level. Adding a new weapon to the armory takes two rounds, though returning attuned weapons to the armory is a Swift Action that may return any number of Attuned weapons. Before being able retrieve an unattuned weapon from this armory, they must spend 30 minutes attuning it, during which they may remove the attunement of a weapon already attuned. Retrieving a weapon from this armory is a Swift Action, which may be treated as drawing the weapon for normal use or it may be moved to any point within 10 feet. Additionally, the Weapon Hoarder may retrieve a number of weapons equal to their Charisma Modifier plus one per four levels in the class they have, twice that many as the same action as a double-move or thrice as many as a full-round action.
@@ -172,10 +172,31 @@ requires saturated attunement bonus 2 or higher
 your experience with seeing and wielding many different weapons has allowed you to think up new ways to use them, when you summon a weapon, you may sacrifice part or all of the saturated attunement bonus to grant it a magical effect equal to the amount of enhancement bonus sacrificed, the enhancement must be appropriate for the weapon(keen still wont work on bludgeoning etc) and the weapon must still have at least +1 net enhancement bonus, also the weapon cannot already have the enhancement, otherwise any enhancement you know of and have enough bonus for is fine,(at GM's discretion may require the weapon hoarder to have seen the enhancement before or make knowledge check DC 5 times the enhancement bonus amount)the new enhancement lasts until the weapon returns to your armory
 
 armor summon
-at 2nd level you may store armor in your magical armory, up to your chaisma modifier in armors may be stored in your magical armory at once. you may summon and fully dawn any armor in your armory as a standard action, at 12th level armor may be summoned and dawned as an immediate action. dawning armor from your armoury while already wearing armor automatically stores the previously worn armor
+at 2nd level you may store armor in your magical armory, up to your chaisma modifier in armors may be stored in your magical armory at once. you may summon and fully dawn any armor from your armory as a standard action, at 12th level armor may be summoned and dawned as an immediate action. dawning armor from your armoury while already wearing armor automatically stores the previously worn armor
 
 saturated attunement
-at 5th level, weapons in your magical armory become saturated with your energy and work better for you than anyone else, you treat weapons and armor attuned to your magical armory as masterwork even if they are not. at 7th level, you treat weapons attuned to your magical armory as if their enhancement bonus was +1 higher than it is(to a max of +10), every 3 levels beyond 7th, the effective enhancement bonus of your attuned weapons and armor increases by a further +1(+5 at 19th level). new weapons and armor must be within your vault for 24 hrs before they become effected by saturated attunement. 
+at 3rd level, weapons and armor in your magical armory become saturated with your energy and work better for you than anyone else, you treat weapons and armor attuned to your magical armory as masterwork even if they are not. at 5th level, you treat weapons and armor attuned to your magical armory as if their enhancement bonus was +1 higher than it is(to a max of +10), at 7th level and every 3 levels thereafter, the effective enhancement bonus of your attuned weapons and armor increases by a further +1(+6 at 19th level). new weapons and armor must be within your vault for 24 hrs before they become effected by saturated attunement. 
+
+Armory Expantion
+at 9th level, you can upgrade your magical armory in one of the following ways
+
+	Exotic Wielder
+	you gain an exotic weapon proficiency for every level of weapon hoarder you have. exotic weapons treat your saturated attunement bonus as 50% higher than normal(round up)
+	
+	Flashy Armor
+	when wearing armor affected by your saturated attunement, you gain a bonus to charisma based skill checks equal to its total enhancement bonus. at 15th level armor affected by your saturated attunement bonus grant bonus movement equal to 5 times the attunemnet bonus. at 20th level armor affected by your saturated attunement bonus also grant you DR/- equal to your saturated attunement bonus.
+	
+	Golden Rule
+	your level is considered 50% higher(round down) for the limits of your magical armory. with this upgrade your effective level may exceed 20 for the purpose of magical armory limits
+	
+	Radiant Piercing
+	weapons affected by your saturated attunement now ignore miss chance from cover. at 15th level weapons affected by your saturated attunement treat incorporeal targets as corporeal. at 20th level weapons affected by your saturated attunement ignore all miss chance
+
+	Rapid Deployment
+	double the total number of weapons you can summon at once, after all additive increases
+
+	Utterly Enchanting
+	you gain extra storage space in your armory for wondrous items. the total number of wondrous items you can store is equal to twice your level. sets of wondrous items may be equiped like sets of armor with armor summon. at 15th level wondrous items equiped from your armory act as if you have had them equiped for 24 hours, even if you just equiped them. at 20th level, any wondrous item from your armory that has a plus number(ex, +2, +4 etc) has that number increased by your saturated attunement bonus
 
 Martial Convergence
 at 20th level, once per day you may call every weapon in your magical armoury and have them attack a single target without the normal penalties
@@ -202,7 +223,7 @@ you may now use your floating weapons to flank with your own attacks, however th
 
 greater remote flanking
 requires: improved remote flanking feat
-your floating weapons may flank enemies with each other, additionally, each floating weapon that flanks an enemy after the first in a given turn increases the flanking bonus against that target by +1 for all susequent flanks for the rest of the turn
+your floating weapons may flank enemies with each other, additionally, each floating weapon that flanks an enemy after the first in a given turn increases the flanking bonus against that target by +1 for all susequent flanks against that target for the rest of the turn
 
 greatest remote flanking
 requires: greater remote flanking
