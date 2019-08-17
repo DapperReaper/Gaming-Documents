@@ -1,4 +1,9 @@
 pathfinder masochist
+hit die: d8
+alignment: any
+Starting Wealth: 5d6 × 10 gp (average 175gp.) In addition, each character begins play with an outfit worth 10 gp or less.
+
+skill points per level 2 + int mod
 
 level	bab		fort	reflex	will	special
 1	0		2	0	2	pain is power
@@ -22,7 +27,7 @@ level	bab		fort	reflex	will	special
 19	14/9/4		11	6	11	pain is power bonus+1
 20	15/10/5		12	6	12	rampant carnage, pain is power efficiency+1
 
-
+class skills: craft, climb, heal, profession, swim
 
 
 
@@ -56,4 +61,4 @@ at 17th level the masochist can make his attacker feel his pain, when he takes d
 
 
 rampant carnage
-at 20th evel the masochist exemplifies pain on the battle field, when they kill an enemy, they gain temporary hitpoints equal to their CR, these temporary hit points are only consumed by damage first at the choice of the masochist, these temporary hit points stack with themselves without limit, however they wear off after 3 minutes of being outside combat, a masochist is considered outside of combat if he has not attacked or been attacked in the last 5 rounds
+at 20th level the masochist exemplifies pain on the battle field, when they kill an enemy, they gain temporary hitpoints equal to their CR, these temporary hit points are only consumed by damage first at the choice of the masochist, these temporary hit points stack with themselves without limit, however they wear off after 3 minutes of being outside combat, a masochist is considered outside of combat if he has not attacked or been attacked in the last 5 rounds
