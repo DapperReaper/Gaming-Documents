@@ -22,7 +22,7 @@ level	bab	fort	ref	will	special				casting
 
 
 tonberry king
-the tonberry's knowledge of hatred is expansive and intricate, this earns you respect with other tonberries and you gain a +2 bonus to dimplomacy with them as well as an extravigant title(ex: golden tongued cullberry, sun soaked marberry, etc) additionally a faint astral crown sits on your head. additionally, you find new empathy with the hatred of your tonberry brothers and sisters, whenever a tonberry within 1 mile of you would take damage, you gain rancor as if you took the damage yourself, and if a tonberry dies within this radius you gain rancor equal to all the rancor they had at the time of death. rancor gained in this way is referred to as empathetic rancor, the range at which you gain empathetic rancor increases by 1 mile per additional level in tonberry king
+the tonberry's knowledge of hatred is expansive and intricate, this earns you respect with other tonberries and you gain a +2 bonus to dimplomacy with them as well as an extravigant title(ex: golden tongued cullberry, sun soaked marberry, etc) additionally a faint astral crown sits on your head. additionally, you find new empathy with the hatred of your tonberry brothers and sisters, whenever a tonberry within 1 mile of you would take damage, you gain rancor as if you took the damage yourself, and if a tonberry dies within this radius you gain rancor equal to all the rancor they had at the time of death. rancor gained in this way is referred to as empathetic rancor, the range at which you gain empathetic rancor increases by 1 mile per additional level in tonberry king, rancor spending limits are also increased by 1 per tonberry king level
 
 casting progression
 if the tonberry knows how to cast magic, each level of tonberry king grants additional spells per day, spells known and caster level as if she had advanced a level in that class, however no other class features are gained or progressed
@@ -37,4 +37,5 @@ everyone's rancor
 you may make a ranged attack as a full round action, if successful you expend rancor equal to your total hit dice to deal exponentially more damage, dealing an amount equal to the amount of rancor spent squared
 
 hate worship
+the tonberry king gains empathetic rancor when anyone they recognize as an ally in range is damaged, even if they are not a tonberry
 while this prestige class technically stops at 6, a tonberry may desire nothing more than to further her hatred, to that end, additional levels may continue to be taken on level up, however these levels only provide progression for tonberry king's range of empathetic rancor, and the bonus to intense hatred
