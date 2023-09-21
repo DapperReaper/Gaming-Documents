@@ -1,0 +1,31 @@
+pathfinder time lord race
+
+humanoid
+size medium
+speed normal
+stat adjustment (con +2, int+2)
+
+special
+Distort Timeline
+a number of times per day equal to their hit dice plus mythic tier, when they would be reduced to 0 or fewer hit points or othrwise knocked unconcious, they instead remove all status effects affecting them, recover to their max hp, and immediately take an additional turn, this turn interrupts any turn that was occuring when this ability triggered
+
+total point value: 20
+
+
+new feats
+
+additional timeline
+requires: distort timeline racial ability
+the number of times per day you can activate distort  timeline is increased by 1. additional timeline my be taken multiple times
+
+massive distortion
+requires: distort timeline racial ability, time distortion class feature
+when your distort timeline ability triggers, the extra turn you take is treated as 1 turn of time stop and is affected by time distortions you have as appropriate. time distortions that extend the duration of time stop do not affect this extra turn
+
+synergitic distortion
+requires: distort timeline racial ability, time filement class feature
+when your distort timeline ability triggers, you gain a temporary use of time filiment that will fade after 8 hours if unused
+
+true timelessness
+requires: distort timeline racial ability
+select up to 3 different feats that list time filament class feature as a requirement that you qualify for, this feat's effect becomes the combined effect of those 3 feats
